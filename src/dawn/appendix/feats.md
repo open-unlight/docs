@@ -2,7 +2,7 @@
 
 There are the feats information for developers.
 
-## FEAT_SMASH(1)
+## 1. `FEAT_SMASH`
 | ID | Name | Pow |
 |----|------|-----|
 | 25 | 猛擊 | 5 |
@@ -29,7 +29,7 @@ There are the feats information for developers.
 | 1435 | 猛擊 | 6 |
 | 1436 | Ex猛擊 | 12 |
 
-## FEAT_AIMING(2)
+## 2. `FEAT_AIMING`
 | ID | Name | Pow |
 |----|------|-----|
 | 1 | 精密射擊 | 5 |
@@ -55,7 +55,7 @@ There are the feats information for developers.
 | 1555 | 衝擊斬 | 7 |
 | 1556 | 衝擊斬 | 10 |
 
-## FEAT_STRIKE(3)
+## 3. `FEAT_STRIKE`
 | ID | Name | Pow |
 |----|------|-----|
 | 4 | 雷擊 | 3 |
@@ -70,14 +70,14 @@ There are the feats information for developers.
 | 1356 | 破甲樁槍 | 9 |
 | 1357 | 破甲樁槍 | 11 |
 
-## FEAT_COMBO(4)
+## 4. `FEAT_COMBO`
 | ID | Name | Pow |
 |----|------|-----|
 | 43 | 幻影劍舞 | 8 |
 | 44 | 幻影劍舞 | 9 |
 | 45 | Ex幻影劍舞 | 24 |
 
-## FEAT_THORN(5)
+## 5. `FEAT_THORN`
 | ID | Name | Pow |
 |----|------|-----|
 | 7 | 茨林 | 6 |
@@ -91,7 +91,7 @@ There are the feats information for developers.
 | 788 | 茨林 | 12 |
 | 789 | 茨林 | 16 |
 
-## FEAT_CHARGE(6)
+## 6. `FEAT_CHARGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 40 | 閃電旋風刺 | 3 |
@@ -100,7 +100,7 @@ There are the feats information for developers.
 | 137 | 恐怖鉤擊 | 3 |
 | 138 | 恐怖鉤擊 | 4 |
 
-## FEAT_MIRAGE(7)
+## 7. `FEAT_MIRAGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 61 | 沙漠中的海市蜃樓 | 2 |
@@ -114,7 +114,7 @@ There are the feats information for developers.
 | 293 | 金屬戰甲 | 6 |
 | 294 | 金屬戰甲 | 7 |
 
-## FEAT_FRENZY_EYES(8)
+## 8. `FEAT_FRENZY_EYES`
 | ID | Name | Pow |
 |----|------|-----|
 | 64 | 瘋狂眼窩 | 3 |
@@ -122,7 +122,7 @@ There are the feats information for developers.
 | 66 | Ex瘋狂眼窩 | 8 |
 | 215 | 通往混沌的邀請 | 1 |
 
-## FEAT_ABYSS(9)
+## 9. `FEAT_ABYSS`
 | ID | Name | Pow |
 |----|------|-----|
 | 67 | 深淵 | 0 |
@@ -132,14 +132,14 @@ There are the feats information for developers.
 | 930 | 深淵 | 1 |
 | 931 | 深淵 | 1 |
 
-## FEAT_RAPID_SWORD(10)
+## 10. `FEAT_RAPID_SWORD`
 | ID | Name | Pow |
 |----|------|-----|
 | 16 | 神速之劍 | 2 |
 | 17 | 神速之劍NONE | 2 |
 | 18 | Ex神速之劍 | 1 |
 
-## FEAT_ANGER(11)
+## 11. `FEAT_ANGER`
 | ID | Name | Pow |
 |----|------|-----|
 | 19 | 憤怒一擊 | 12 |
@@ -149,7 +149,7 @@ There are the feats information for developers.
 | 510 | 怒鳴強雷 | 13 |
 | 511 | 怒鳴強雷 | 16 |
 
-## FEAT_POWER_STOCK(12)
+## 12. `FEAT_POWER_STOCK`
 | ID | Name | Pow |
 |----|------|-----|
 | 28 | 必殺架勢 | 4 |
@@ -159,7 +159,7 @@ There are the feats information for developers.
 | 1438 | 必殺架勢 | 5 |
 | 1439 | Ex必殺架勢 | 9 |
 
-## FEAT_SHADOW_SHOT(13)
+## 13. `FEAT_SHADOW_SHOT`
 | ID | Name | Pow |
 |----|------|-----|
 | 49 | 劫影攻擊 | 2 |
@@ -186,7 +186,7 @@ There are the feats information for developers.
 | 1329 | 南瓜們的盛宴 | 3 |
 | 1330 | 南瓜們的盛宴 | 5 |
 
-## FEAT_RED_FANG(14)
+## 14. `FEAT_RED_FANG`
 | ID | Name | Pow |
 |----|------|-----|
 | 52 | 毒牙 | 4 |
@@ -213,7 +213,7 @@ There are the feats information for developers.
 | 1558 | 強毒針 | 10 |
 | 1559 | 強毒針 | 14 |
 
-## FEAT_BLESSING_BLOOD(15)
+## 15. `FEAT_BLESSING_BLOOD`
 | ID | Name | Pow |
 |----|------|-----|
 | 31 | 血之恩賜 | 5 |
@@ -234,7 +234,7 @@ There are the feats information for developers.
 | 1522 | 鱗再生 | 7 |
 | 1523 | 鱗再生 | 10 |
 
-## FEAT_COUNTER_PREPARATION(16)
+## 16. `FEAT_COUNTER_PREPARATION`
 | ID | Name | Pow |
 |----|------|-----|
 | 55 | 反擊的狼煙 | 0 |
@@ -244,7 +244,7 @@ There are the feats information for developers.
 | 1576 | 眼力 | 1 |
 | 1577 | 眼力 | 2 |
 
-## FEAT_KARMIC_TIME(17)
+## 17. `FEAT_KARMIC_TIME`
 | ID | Name | Pow |
 |----|------|-----|
 | 79 | 因果之刻 | 0 |
@@ -255,7 +255,7 @@ There are the feats information for developers.
 | 1501 | 泡沫 | 0 |
 | 1502 | 泡沫 | 0 |
 
-## FEAT_KARMIC_RING(18)
+## 18. `FEAT_KARMIC_RING`
 | ID | Name | Pow |
 |----|------|-----|
 | 76 | 因果之輪 | 0 |
@@ -267,7 +267,7 @@ There are the feats information for developers.
 | 291 | 夢幻輪迴 | 0 |
 | 1324 | 夢幻輪迴 | 0 |
 
-## FEAT_KARMIC_STRING(19)
+## 19. `FEAT_KARMIC_STRING`
 | ID | Name | Pow |
 |----|------|-----|
 | 73 | 因果之線 | 1 |
@@ -279,35 +279,35 @@ There are the feats information for developers.
 | 936 | 因果之線 | 2 |
 | 937 | 因果之線 | 2 |
 
-## FEAT_HI_SMASH(20)
+## 20. `FEAT_HI_SMASH`
 | ID | Name | Pow |
 |----|------|-----|
 
-## FEAT_HI_POWER_STOCK(21)
+## 21. `FEAT_HI_POWER_STOCK`
 | ID | Name | Pow |
 |----|------|-----|
 
-## FEAT_HI_AIMING(22)
+## 22. `FEAT_HI_AIMING`
 | ID | Name | Pow |
 |----|------|-----|
 
-## FEAT_HI_RAPID_SWORD(23)
+## 23. `FEAT_HI_RAPID_SWORD`
 | ID | Name | Pow |
 |----|------|-----|
 
-## FEAT_HI_KARMIC_STRING(24)
+## 24. `FEAT_HI_KARMIC_STRING`
 | ID | Name | Pow |
 |----|------|-----|
 
-## FEAT_HI_FRENZY_EYES(25)
+## 25. `FEAT_HI_FRENZY_EYES`
 | ID | Name | Pow |
 |----|------|-----|
 
-## FEAT_HI_SHADOW_SHOT(26)
+## 26. `FEAT_HI_SHADOW_SHOT`
 | ID | Name | Pow |
 |----|------|-----|
 
-## FEAT_LAND_MINE(27)
+## 27. `FEAT_LAND_MINE`
 | ID | Name | Pow |
 |----|------|-----|
 | 85 | 大地崩壞 | 2 |
@@ -322,7 +322,7 @@ There are the feats information for developers.
 | 1616 | 降臨的災厄 | 3 |
 | 1617 | 降臨的災厄 | 3 |
 
-## FEAT_DESPERADO(28)
+## 28. `FEAT_DESPERADO`
 | ID | Name | Pow |
 |----|------|-----|
 | 88 | 致命槍擊 | 8 |
@@ -334,7 +334,7 @@ There are the feats information for developers.
 | 1353 | 導彈艙 | 13 |
 | 1354 | 導彈艙 | 16 |
 
-## FEAT_REJECT_SWORD(29)
+## 29. `FEAT_REJECT_SWORD`
 | ID | Name | Pow |
 |----|------|-----|
 | 97 | 彈射飛刀 | 7 |
@@ -344,7 +344,7 @@ There are the feats information for developers.
 | 1643 | 琉璃槍彈 | 16 |
 | 1644 | 琉璃槍彈 | 16 |
 
-## FEAT_COUNTER_GUARD(30)
+## 30. `FEAT_COUNTER_GUARD`
 | ID | Name | Pow |
 |----|------|-----|
 | 100 | 攻防抗衡 | 0 |
@@ -354,20 +354,20 @@ There are the feats information for developers.
 | 870 | 致命衝撞 | 0 |
 | 872 | 致命衝撞 | 0 |
 
-## FEAT_PAIN_FLEE(31)
+## 31. `FEAT_PAIN_FLEE`
 | ID | Name | Pow |
 |----|------|-----|
 | 103 | 解放 | 3 |
 | 104 | 解放NONE | 3 |
 | 105 | Ex解放 | 4 |
 
-## FEAT_BODY_OF_LIGHT(32)
+## 32. `FEAT_BODY_OF_LIGHT`
 | ID | Name | Pow |
 |----|------|-----|
 | 109 | 傷隨光逝 | 2 |
 | 110 | 傷隨光逝None | 2 |
 
-## FEAT_SEAL_CHAIN(33)
+## 33. `FEAT_SEAL_CHAIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 112 | 封印枷鎖 | 5 |
@@ -380,7 +380,7 @@ There are the feats information for developers.
 | 528 | 不溶之冰 | 7 |
 | 619 | 冥王之魂 | 8 |
 
-## FEAT_PURIFICATION_LIGHT(34)
+## 34. `FEAT_PURIFICATION_LIGHT`
 | ID | Name | Pow |
 |----|------|-----|
 | 115 | 降魔之光 | 5 |
@@ -400,7 +400,7 @@ There are the feats information for developers.
 | 1622 | 啄食 | 7 |
 | 1623 | 啄食 | 9 |
 
-## FEAT_CRAFTINESS(35)
+## 35. `FEAT_CRAFTINESS`
 | ID | Name | Pow |
 |----|------|-----|
 | 10 | 智略 | 2 |
@@ -414,26 +414,26 @@ There are the feats information for developers.
 | 351 | 王者的威風 | 3 |
 | 901 | 月暈的渡廊 | 3 |
 
-## FEAT_LAND_BOMB(36)
+## 36. `FEAT_LAND_BOMB`
 | ID | Name | Pow |
 |----|------|-----|
 
-## FEAT_REJECT_BLADE(37)
+## 37. `FEAT_REJECT_BLADE`
 | ID | Name | Pow |
 |----|------|-----|
 
-## FEAT_SPELL_CHAIN(38)
+## 38. `FEAT_SPELL_CHAIN`
 | ID | Name | Pow |
 |----|------|-----|
 
-## FEAT_INDOMITABLE_MIND(39)
+## 39. `FEAT_INDOMITABLE_MIND`
 | ID | Name | Pow |
 |----|------|-----|
 | 22 | 不屈之心 | 1 |
 | 23 | 不屈之心NONE | 1 |
 | 24 | Ex不屈之心 | 99 |
 
-## FEAT_DRAIN_SOUL(40)
+## 40. `FEAT_DRAIN_SOUL`
 | ID | Name | Pow |
 |----|------|-----|
 | 34 | 精神力吸收 | 4 |
@@ -446,7 +446,7 @@ There are the feats information for developers.
 | 1444 | 精神力吸收NONE | 3 |
 | 1445 | Ex精神力吸收 | 3 |
 
-## FEAT_BACK_STAB(41)
+## 41. `FEAT_BACK_STAB`
 | ID | Name | Pow |
 |----|------|-----|
 | 58 | 背刺 | 12 |
@@ -457,7 +457,7 @@ There are the feats information for developers.
 | 889 | 紅月 | 42 |
 | 890 | 紅月 | 42 |
 
-## FEAT_ENLIGHTENED(42)
+## 42. `FEAT_ENLIGHTENED`
 | ID | Name | Pow |
 |----|------|-----|
 | 46 | 抽刀斷水計 | 1 |
@@ -467,14 +467,14 @@ There are the feats information for developers.
 | 130 | 咒言 | 1 |
 | 520 | 封印之眼 | 1 |
 
-## FEAT_DARK_WHIRLPOOL(43)
+## 43. `FEAT_DARK_WHIRLPOOL`
 | ID | Name | Pow |
 |----|------|-----|
 | 70 | 黑暗漩渦 | 3 |
 | 71 | 黑暗漩渦 | 4 |
 | 72 | Ex黑暗漩渦 | 12 |
 
-## FEAT_KARMIC_PHANTOM(44)
+## 44. `FEAT_KARMIC_PHANTOM`
 | ID | Name | Pow |
 |----|------|-----|
 | 82 | 因果之幻 | 4 |
@@ -484,14 +484,14 @@ There are the feats information for developers.
 | 942 | 因果之幻 | 15 |
 | 943 | 因果之幻 | 15 |
 
-## FEAT_RECOVERY_WAVE(45)
+## 45. `FEAT_RECOVERY_WAVE`
 | ID | Name | Pow |
 |----|------|-----|
 | 118 | 治癒的波動 | 2 |
 | 119 | 治癒的波動None | 3 |
 | 120 | Ex治癒的波動 | 5 |
 
-## FEAT_SELF_DESTRUCTION(46)
+## 46. `FEAT_SELF_DESTRUCTION`
 | ID | Name | Pow |
 |----|------|-----|
 | 106 | 自爆 | 1 |
@@ -501,14 +501,14 @@ There are the feats information for developers.
 | 504 | 犧牲的一擊 | 1 |
 | 505 | 犧牲的一擊 | 1 |
 
-## FEAT_DEFFENCE_SHOOTING(47)
+## 47. `FEAT_DEFFENCE_SHOOTING`
 | ID | Name | Pow |
 |----|------|-----|
 | 94 | 防護射擊 | 2 |
 | 95 | 防護射擊None | 2 |
 | 96 | Ex防護射擊 | 5 |
 
-## FEAT_RECOVERY(48)
+## 48. `FEAT_RECOVERY`
 | ID | Name | Pow |
 |----|------|-----|
 | 139 | 再生 | 1 |
@@ -526,7 +526,7 @@ There are the feats information for developers.
 | 1326 | 死靈吸收 | 3 |
 | 1327 | 死靈吸收 | 3 |
 
-## FEAT_SHADOW_ATTACK(49)
+## 49. `FEAT_SHADOW_ATTACK`
 | ID | Name | Pow |
 |----|------|-----|
 | 146 | 幻影 | 3 |
@@ -535,7 +535,7 @@ There are the feats information for developers.
 | 599 | 黑馬的嘶吼 | 7 |
 | 600 | 黑馬的嘶吼 | 8 |
 
-## FEAT_SUICIDAL_TENDENCIES(50)
+## 50. `FEAT_SUICIDAL_TENDENCIES`
 | ID | Name | Pow |
 |----|------|-----|
 | 151 | 自殺傾向 | 4 |
@@ -545,7 +545,7 @@ There are the feats information for developers.
 | 1652 | 自殺傾向 | 5 |
 | 1653 | Ex自殺傾向 | 6 |
 
-## FEAT_MISFIT(51)
+## 51. `FEAT_MISFIT`
 | ID | Name | Pow |
 |----|------|-----|
 | 154 | 異質者 | 2 |
@@ -560,7 +560,7 @@ There are the feats information for developers.
 | 1655 | 異質者 | 3 |
 | 1656 | Ex異質者 | 3 |
 
-## FEAT_BIG_BRAGG(52)
+## 52. `FEAT_BIG_BRAGG`
 | ID | Name | Pow |
 |----|------|-----|
 | 157 | 巨大黑犬 | 3 |
@@ -572,7 +572,7 @@ There are the feats information for developers.
 | 1658 | 巨大黑犬 | 4 |
 | 1659 | Ex巨大黑犬 | 6 |
 
-## FEAT_LETS_KNIFE(53)
+## 53. `FEAT_LETS_KNIFE`
 | ID | Name | Pow |
 |----|------|-----|
 | 160 | 飛刃雨 | 2 |
@@ -585,7 +585,7 @@ There are the feats information for developers.
 | 1661 | 飛刃雨 | 2 |
 | 1662 | Ex飛刃雨 | 3 |
 
-## FEAT_SINGLE_HEART(54)
+## 54. `FEAT_SINGLE_HEART`
 | ID | Name | Pow |
 |----|------|-----|
 | 163 | 一顆心 | 1 |
@@ -595,7 +595,7 @@ There are the feats information for developers.
 | 1045 | 一顆心 | 2 |
 | 1046 | 一顆心 | 3 |
 
-## FEAT_DOUBLE_BODY(55)
+## 55. `FEAT_DOUBLE_BODY`
 | ID | Name | Pow |
 |----|------|-----|
 | 166 | 兩個身體 | 0 |
@@ -607,20 +607,20 @@ There are the feats information for developers.
 | 897 | 附生荊 | 0 |
 | 902 | 來自深淵的視線 | 1 |
 
-## FEAT_NINE_SOUL(56)
+## 56. `FEAT_NINE_SOUL`
 | ID | Name | Pow |
 |----|------|-----|
 | 169 | 九個靈魂 | 8 |
 | 170 | 九個靈魂 | 9 |
 | 171 | Ex九個靈魂 | 14 |
 
-## FEAT_THIRTEEN_EYES(57)
+## 57. `FEAT_THIRTEEN_EYES`
 | ID | Name | Pow |
 |----|------|-----|
 | 172 | 十三隻眼 | 13 |
 | 173 | 十三隻眼 | 13 |
 
-## FEAT_LIFE_DRAIN(58)
+## 58. `FEAT_LIFE_DRAIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 181 | 能量吸收 | 4 |
@@ -629,7 +629,7 @@ There are the feats information for developers.
 | 196 | 吸血 | 6 |
 | 197 | 吸血 | 7 |
 
-## FEAT_RANDOM_CURSE(59)
+## 59. `FEAT_RANDOM_CURSE`
 | ID | Name | Pow |
 |----|------|-----|
 | 183 | 詛咒之手 | 2 |
@@ -642,7 +642,7 @@ There are the feats information for developers.
 | 299 | 魔手 | 2 |
 | 302 | 黑色魔手 | 3 |
 
-## FEAT_HEAL_VOICE(60)
+## 60. `FEAT_HEAL_VOICE`
 | ID | Name | Pow |
 |----|------|-----|
 | 188 | 治癒之聲 | 1 |
@@ -651,14 +651,14 @@ There are the feats information for developers.
 | 1619 | 治癒之聲 | 2 |
 | 1620 | 治癒之聲 | 3 |
 
-## FEAT_DOUBLE_ATTACK(61)
+## 61. `FEAT_DOUBLE_ATTACK`
 | ID | Name | Pow |
 |----|------|-----|
 | 190 | 雙頭擊 | 0 |
 | 191 | 雙頭擊 | 2 |
 | 192 | 雙頭擊 | 4 |
 
-## FEAT_PARTY_DAMAGE(62)
+## 62. `FEAT_PARTY_DAMAGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 198 | 高貴的晚餐 | 1 |
@@ -667,7 +667,7 @@ There are the feats information for developers.
 | 329 | 白之詛咒 | 1 |
 | 330 | 白之詛咒 | 1 |
 
-## FEAT_GUARD(63)
+## 63. `FEAT_GUARD`
 | ID | Name | Pow |
 |----|------|-----|
 | 111 | Ex傷隨光逝 | 2 |
@@ -681,7 +681,7 @@ There are the feats information for developers.
 | 1311 | 次元交錯 | 4 |
 | 1312 | Ex次元交錯 | 5 |
 
-## FEAT_DEATH_CONTROL(64)
+## 64. `FEAT_DEATH_CONTROL`
 | ID | Name | Pow |
 |----|------|-----|
 | 202 | 血統侵食 | 8 |
@@ -692,21 +692,21 @@ There are the feats information for developers.
 | 1375 | 隼鷹標槍 | 8 |
 | 1376 | Ex隼鷹標槍 | 16 |
 
-## FEAT_WIT(65)
+## 65. `FEAT_WIT`
 | ID | Name | Pow |
 |----|------|-----|
 | 216 | 機智 | 1 |
 | 217 | 機智 | 1 |
 | 218 | Ex機智 | 2 |
 
-## FEAT_THORN_CARE(66)
+## 66. `FEAT_THORN_CARE`
 | ID | Name | Pow |
 |----|------|-----|
 | 219 | 茨的架勢 | 2 |
 | 220 | 茨的架勢 | 3 |
 | 221 | Ex茨的架勢 | 4 |
 
-## FEAT_LIBERATING_SWORD(67)
+## 67. `FEAT_LIBERATING_SWORD`
 | ID | Name | Pow |
 |----|------|-----|
 | 222 | 解放劍 | 4 |
@@ -717,7 +717,7 @@ There are the feats information for developers.
 | 607 | 惡魔之尾 | 8 |
 | 851 | 熱線 | 15 |
 
-## FEAT_ONE_SLASH(68)
+## 68. `FEAT_ONE_SLASH`
 | ID | Name | Pow |
 |----|------|-----|
 | 228 | 一閃 | 2 |
@@ -727,7 +727,7 @@ There are the feats information for developers.
 | 1664 | 一閃 | 3 |
 | 1665 | Ex一閃 | 7 |
 
-## FEAT_TEN_SLASH(69)
+## 69. `FEAT_TEN_SLASH`
 | ID | Name | Pow |
 |----|------|-----|
 | 231 | 十閃 | 2 |
@@ -737,7 +737,7 @@ There are the feats information for developers.
 | 1667 | 十閃 | 3 |
 | 1668 | Ex十閃 | 7 |
 
-## FEAT_HANDLED_SLASH(70)
+## 70. `FEAT_HANDLED_SLASH`
 | ID | Name | Pow |
 |----|------|-----|
 | 234 | 百閃 | 2 |
@@ -747,7 +747,7 @@ There are the feats information for developers.
 | 1670 | 百閃 | 2 |
 | 1671 | Ex百閃 | 5 |
 
-## FEAT_CURSE_CARE(71)
+## 71. `FEAT_CURSE_CARE`
 | ID | Name | Pow |
 |----|------|-----|
 | 237 | 修羅架勢 | 3 |
@@ -757,14 +757,14 @@ There are the feats information for developers.
 | 1673 | 修羅架勢 | 3 |
 | 1674 | Ex修羅架勢 | 7 |
 
-## FEAT_MOON_SHINE(72)
+## 72. `FEAT_MOON_SHINE`
 | ID | Name | Pow |
 |----|------|-----|
 | 240 | 月光 | 1 |
 | 241 | 月光 | 2 |
 | 242 | Ex月光 | 3 |
 
-## FEAT_RAPTURE(73)
+## 73. `FEAT_RAPTURE`
 | ID | Name | Pow |
 |----|------|-----|
 | 243 | 恍惚 | 4 |
@@ -775,7 +775,7 @@ There are the feats information for developers.
 | 1302 | 恍惚 | 5 |
 | 1303 | 恍惚 | 9 |
 
-## FEAT_DOOMSDAY(74)
+## 74. `FEAT_DOOMSDAY`
 | ID | Name | Pow |
 |----|------|-----|
 | 246 | 末日幻影 | 3 |
@@ -785,21 +785,21 @@ There are the feats information for developers.
 | 1305 | 狂亂侵襲 | 15 |
 | 1306 | 狂亂侵襲 | 16 |
 
-## FEAT_HELL(75)
+## 75. `FEAT_HELL`
 | ID | Name | Pow |
 |----|------|-----|
 | 249 | 地獄獵心獸 | 5 |
 | 250 | 地獄獵心獸 | 5 |
 | 251 | Ex地獄獵心獸 | 4 |
 
-## FEAT_AWAKING(76)
+## 76. `FEAT_AWAKING`
 | ID | Name | Pow |
 |----|------|-----|
 | 258 | 超級女主角 | 4 |
 | 259 | 超級女主角 | 5 |
 | 260 | Ex超級女主角 | 8 |
 
-## FEAT_MOVING_ONE(77)
+## 77. `FEAT_MOVING_ONE`
 | ID | Name | Pow |
 |----|------|-----|
 | 264 | 挑戰者 | 1 |
@@ -810,7 +810,7 @@ There are the feats information for developers.
 | 1676 | 挑戰者 | 1 |
 | 1677 | Ex挑戰者 | 3 |
 
-## FEAT_ARROGANT_ONE(78)
+## 78. `FEAT_ARROGANT_ONE`
 | ID | Name | Pow |
 |----|------|-----|
 | 267 | 奢浮者 | 3 |
@@ -820,7 +820,7 @@ There are the feats information for developers.
 | 1679 | 奢浮者 | 4 |
 | 1680 | Ex奢浮者 | 9 |
 
-## FEAT_EATING_ONE(79)
+## 79. `FEAT_EATING_ONE`
 | ID | Name | Pow |
 |----|------|-----|
 | 270 | 貪食者 | 4 |
@@ -830,7 +830,7 @@ There are the feats information for developers.
 | 1682 | 貪食者 | 5 |
 | 1683 | Ex貪食者 | 6 |
 
-## FEAT_REVIVING_ONE(80)
+## 80. `FEAT_REVIVING_ONE`
 | ID | Name | Pow |
 |----|------|-----|
 | 273 | 甦醒者 | 3 |
@@ -840,14 +840,14 @@ There are the feats information for developers.
 | 1685 | 甦醒者 | 3 |
 | 1686 | Ex甦醒者 | 5 |
 
-## FEAT_WHITE_LIGHT(81)
+## 81. `FEAT_WHITE_LIGHT`
 | ID | Name | Pow |
 |----|------|-----|
 | 276 | 雪光 | 2 |
 | 277 | 雪光 | 2 |
 | 278 | Ex雪光 | 2 |
 
-## FEAT_CRYSTAL_SHIELD(82)
+## 82. `FEAT_CRYSTAL_SHIELD`
 | ID | Name | Pow |
 |----|------|-----|
 | 279 | 水晶幻鏡 | 3 |
@@ -857,41 +857,41 @@ There are the feats information for developers.
 | 1111 | 水晶幻鏡 | 6 |
 | 1112 | 水晶幻鏡 | 7 |
 
-## FEAT_SNOW_BALLING(83)
+## 83. `FEAT_SNOW_BALLING`
 | ID | Name | Pow |
 |----|------|-----|
 | 282 | 裂地冰牙 | 3 |
 | 283 | 裂地冰牙 | 4 |
 | 284 | Ex裂地冰牙 | 7 |
 
-## FEAT_SOLVENT_RAIN(84)
+## 84. `FEAT_SOLVENT_RAIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 285 | 溶魂之雨 | 10 |
 | 286 | 溶魂之雨 | 10 |
 | 287 | Ex溶魂之雨 | 7 |
 
-## FEAT_AWAKING_DOOR(85)
+## 85. `FEAT_AWAKING_DOOR`
 | ID | Name | Pow |
 |----|------|-----|
 | 306 | 知覺之門 | 2 |
 | 307 | 知覺之門 | 3 |
 | 308 | Ex知覺之門 | 4 |
 
-## FEAT_OVER_DOSE(86)
+## 86. `FEAT_OVER_DOSE`
 | ID | Name | Pow |
 |----|------|-----|
 | 309 | 超量負荷 | 10 |
 | 310 | 超量負荷 | 14 |
 | 311 | Ex超量負荷 | 16 |
 
-## FEAT_RAZORS_EDGE(87)
+## 87. `FEAT_RAZORS_EDGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 312 | 時空分斷刀 | 2 |
 | 313 | 時空分斷刀 | 2 |
 
-## FEAT_HELLS_BELL(88)
+## 88. `FEAT_HELLS_BELL`
 | ID | Name | Pow |
 |----|------|-----|
 | 315 | 地獄喪鐘 | 2 |
@@ -901,45 +901,45 @@ There are the feats information for developers.
 | 1299 | 狂渦．Rosso | 3 |
 | 1300 | 狂渦．Rosso | 3 |
 
-## FEAT_DRAIN_SEED(89)
+## 89. `FEAT_DRAIN_SEED`
 | ID | Name | Pow |
 |----|------|-----|
 | 323 | 寄生種子 | 1 |
 | 324 | 寄生種子 | 2 |
 | 325 | 寄生種子 | 2 |
 
-## FEAT_ATK_DRAIN(90)
+## 90. `FEAT_ATK_DRAIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 333 | 冰結之翼 | 3 |
 | 334 | 冰結之翼 | 4 |
 | 335 | 冰結之翼 | 5 |
 
-## FEAT_DEF_DRAIN(91)
+## 91. `FEAT_DEF_DRAIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 336 | 煉獄之翼 | 4 |
 | 337 | 煉獄之翼 | 5 |
 
-## FEAT_MOV_DRAIN(92)
+## 92. `FEAT_MOV_DRAIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 338 | 混沌之翼 | 1 |
 
-## FEAT_POISON_SKIN(93)
+## 93. `FEAT_POISON_SKIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 345 | 毒龍鱗 | 3 |
 | 346 | 毒龍鱗 | 4 |
 | 347 | 毒龍鱗 | 5 |
 
-## FEAT_ROAR(94)
+## 94. `FEAT_ROAR`
 | ID | Name | Pow |
 |----|------|-----|
 | 348 | 咆嘯 | 5 |
 | 349 | 咆嘯 | 6 |
 
-## FEAT_FIRE_BREATH(95)
+## 95. `FEAT_FIRE_BREATH`
 | ID | Name | Pow |
 |----|------|-----|
 | 350 | 火炎吐息 | 1 |
@@ -954,12 +954,12 @@ There are the feats information for developers.
 | 1528 | 幽玄秘術 | 2 |
 | 1529 | 幽玄秘術 | 3 |
 
-## FEAT_WHIRL_WIND(96)
+## 96. `FEAT_WHIRL_WIND`
 | ID | Name | Pow |
 |----|------|-----|
 | 352 | 暴風粉碎 | 4 |
 
-## FEAT_ACTIVE_ARMOR(97)
+## 97. `FEAT_ACTIVE_ARMOR`
 | ID | Name | Pow |
 |----|------|-----|
 | 355 | 可動式裝甲 | 3 |
@@ -969,56 +969,56 @@ There are the feats information for developers.
 | 549 | 可動式裝甲 | 4 |
 | 550 | Ex可動式裝甲 | 5 |
 
-## FEAT_SCOLOR_ATTACK(98)
+## 98. `FEAT_SCOLOR_ATTACK`
 | ID | Name | Pow |
 |----|------|-----|
 | 358 | 機槍掃射 | 2 |
 | 359 | 機槍掃射 | 3 |
 | 360 | Ex機槍掃射 | 4 |
 
-## FEAT_HEAT_SEEKER(99)
+## 99. `FEAT_HEAT_SEEKER`
 | ID | Name | Pow |
 |----|------|-----|
 | 361 | 熱導引機 | 7 |
 | 362 | 熱導引機 | 7 |
 | 363 | Ex熱導引機 | 9 |
 
-## FEAT_PURGE(100)
+## 100. `FEAT_PURGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 364 | 裝甲解除 | 8 |
 | 365 | 裝甲解除 | 8 |
 | 366 | Ex裝甲解除 | 9 |
 
-## FEAT_HIGH_HAND(101)
+## 101. `FEAT_HIGH_HAND`
 | ID | Name | Pow |
 |----|------|-----|
 | 367 | High hand | 1 |
 | 368 | High hand | 2 |
 | 369 | ExHigh hand | 3 |
 
-## FEAT_JACK_POT(102)
+## 102. `FEAT_JACK_POT`
 | ID | Name | Pow |
 |----|------|-----|
 | 370 | Jackpot | 1 |
 | 371 | Jackpot | 2 |
 | 372 | ExJackpot | 3 |
 
-## FEAT_LOW_BALL(103)
+## 103. `FEAT_LOW_BALL`
 | ID | Name | Pow |
 |----|------|-----|
 | 373 | Lowball | 5 |
 | 374 | Lowball | 5 |
 | 375 | ExLowball | 6 |
 
-## FEAT_GAMBLE(104)
+## 104. `FEAT_GAMBLE`
 | ID | Name | Pow |
 |----|------|-----|
 | 376 | Gamble | 99 |
 | 377 | Gamble | 99 |
 | 378 | ExGamble | 0 |
 
-## FEAT_BIRD_CAGE(105)
+## 105. `FEAT_BIRD_CAGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 379 | 籠中鳥 | 2 |
@@ -1032,7 +1032,7 @@ There are the feats information for developers.
 | 1625 | 籠中獸 | 5 |
 | 1626 | 籠中獸 | 5 |
 
-## FEAT_HANGING(106)
+## 106. `FEAT_HANGING`
 | ID | Name | Pow |
 |----|------|-----|
 | 382 | 吊殺絞刑 | 2 |
@@ -1042,14 +1042,14 @@ There are the feats information for developers.
 | 1405 | 散華 | 5 |
 | 1406 | 散華 | 9 |
 
-## FEAT_BLAST_OFF(107)
+## 107. `FEAT_BLAST_OFF`
 | ID | Name | Pow |
 |----|------|-----|
 | 385 | 迴飛踢 | 6 |
 | 386 | 迴飛踢 | 7 |
 | 387 | Ex迴飛踢 | 8 |
 
-## FEAT_PUPPET_MASTER(108)
+## 108. `FEAT_PUPPET_MASTER`
 | ID | Name | Pow |
 |----|------|-----|
 | 388 | 操偶師  | 1 |
@@ -1059,35 +1059,35 @@ There are the feats information for developers.
 | 1525 | 水沫 | 1 |
 | 1526 | 水沫 | 1 |
 
-## FEAT_CTL(109)
+## 109. `FEAT_CTL`
 | ID | Name | Pow |
 |----|------|-----|
 | 391 | C.T.L | 5 |
 | 392 | C.T.L | 6 |
 | 393 | ExC.T.L | 9 |
 
-## FEAT_BPA(110)
+## 110. `FEAT_BPA`
 | ID | Name | Pow |
 |----|------|-----|
 | 394 | B.P.A | 2 |
 | 395 | B.P.A | 3 |
 | 396 | ExB.P.A | 5 |
 
-## FEAT_LAR(111)
+## 111. `FEAT_LAR`
 | ID | Name | Pow |
 |----|------|-----|
 | 397 | L.A.R | 1 |
 | 398 | L.A.R | 1 |
 | 399 | ExL.A.R | 2 |
 
-## FEAT_SSS(112)
+## 112. `FEAT_SSS`
 | ID | Name | Pow |
 |----|------|-----|
 | 400 | S.S.S | 3 |
 | 401 | S.S.S | 3 |
 | 402 | ExS.S.S | 5 |
 
-## FEAT_COUNTER_RUSH(113)
+## 113. `FEAT_COUNTER_RUSH`
 | ID | Name | Pow |
 |----|------|-----|
 | 403 | 致命衝撞 | 10 |
@@ -1098,7 +1098,7 @@ There are the feats information for developers.
 | 1373 | 致命衝撞 | 15 |
 | 1605 | 致命衝撞 | 16 |
 
-## FEAT_DISASTER_FLAME(114)
+## 114. `FEAT_DISASTER_FLAME`
 | ID | Name | Pow |
 |----|------|-----|
 | 405 | 劫火 | 1 |
@@ -1108,7 +1108,7 @@ There are the feats information for developers.
 | 1688 | 劫火 | 1 |
 | 1689 | Ex劫火 | 2 |
 
-## FEAT_HELL_FIRE(115)
+## 115. `FEAT_HELL_FIRE`
 | ID | Name | Pow |
 |----|------|-----|
 | 408 | 煉獄 | 7 |
@@ -1124,7 +1124,7 @@ There are the feats information for developers.
 | 1691 | 煉獄 | 8 |
 | 1692 | Ex煉獄 | 15 |
 
-## FEAT_BLINDNESS(116)
+## 116. `FEAT_BLINDNESS`
 | ID | Name | Pow |
 |----|------|-----|
 | 411 | 眩彩 | 4 |
@@ -1137,7 +1137,7 @@ There are the feats information for developers.
 | 1694 | 眩彩 | 5 |
 | 1695 | Ex眩彩 | 6 |
 
-## FEAT_FIRE_DISAPPEAR(117)
+## 117. `FEAT_FIRE_DISAPPEAR`
 | ID | Name | Pow |
 |----|------|-----|
 | 414 | 燒滅 | 2 |
@@ -1147,21 +1147,21 @@ There are the feats information for developers.
 | 1697 | 燒滅 | 2 |
 | 1698 | Ex燒滅 | 3 |
 
-## FEAT_DARK_HOLE(118)
+## 118. `FEAT_DARK_HOLE`
 | ID | Name | Pow |
 |----|------|-----|
 | 417 | 黑洞 | 30 |
 | 418 | 黑洞 | 30 |
 | 419 | Ex黑洞 | 50 |
 
-## FEAT_TANNHAUSER_GATE(119)
+## 119. `FEAT_TANNHAUSER_GATE`
 | ID | Name | Pow |
 |----|------|-----|
 | 420 | 異次元之門 | 2 |
 | 421 | 異次元之門 | 2 |
 | 422 | Ex異次元之門 | 4 |
 
-## FEAT_SCHWAR_BLITZ(120)
+## 120. `FEAT_SCHWAR_BLITZ`
 | ID | Name | Pow |
 |----|------|-----|
 | 423 | 漆黑迅雷 | 6 |
@@ -1171,14 +1171,14 @@ There are the feats information for developers.
 | 1368 | 燦爛光刃 | 7 |
 | 1369 | Ex燦爛光刃 | 11 |
 
-## FEAT_HI_ROUNDER(121)
+## 121. `FEAT_HI_ROUNDER`
 | ID | Name | Pow |
 |----|------|-----|
 | 426 | 高地爆擊 | 4 |
 | 427 | 高地爆擊 | 4 |
 | 428 | Ex高地爆擊 | 4 |
 
-## FEAT_BLOOD_RETTING(122)
+## 122. `FEAT_BLOOD_RETTING`
 | ID | Name | Pow |
 |----|------|-----|
 | 429 | 放血療法 | 1 |
@@ -1188,14 +1188,14 @@ There are the feats information for developers.
 | 1378 | 鮮血吸收 | 1 |
 | 1379 | Ex鮮血吸收 | 1 |
 
-## FEAT_ACUPUNCTURE(123)
+## 123. `FEAT_ACUPUNCTURE`
 | ID | Name | Pow |
 |----|------|-----|
 | 432 | 針灸術 | 1 |
 | 433 | 針灸術 | 1 |
 | 434 | Ex針灸術 | 2 |
 
-## FEAT_DISSECTION(124)
+## 124. `FEAT_DISSECTION`
 | ID | Name | Pow |
 |----|------|-----|
 | 435 | 自我解剖 | 1 |
@@ -1208,7 +1208,7 @@ There are the feats information for developers.
 | 1603 | Im 放血療法 | 4 |
 | 1604 | Im 放血療法 | 4 |
 
-## FEAT_EUTHANASIA(125)
+## 125. `FEAT_EUTHANASIA`
 | ID | Name | Pow |
 |----|------|-----|
 | 438 | 安樂死之歌 | 5 |
@@ -1218,21 +1218,21 @@ There are the feats information for developers.
 | 1600 | Im 安樂死之歌 | 3 |
 | 1601 | Im 安樂死之歌 | 3 |
 
-## FEAT_ANGER_NAIL(126)
+## 126. `FEAT_ANGER_NAIL`
 | ID | Name | Pow |
 |----|------|-----|
 | 441 | 憤怒之爪 | 1 |
 | 442 | 憤怒之爪 | 1 |
 | 443 | Ex憤怒之爪 | 2 |
 
-## FEAT_CALM_BACK(127)
+## 127. `FEAT_CALM_BACK`
 | ID | Name | Pow |
 |----|------|-----|
 | 444 | 靜謐之背 | 1 |
 | 445 | 靜謐之背 | 1 |
 | 446 | Ex靜謐之背 | 2 |
 
-## FEAT_BLUE_EYES(128)
+## 128. `FEAT_BLUE_EYES`
 | ID | Name | Pow |
 |----|------|-----|
 | 447 | 慈悲的藍眼 | 2 |
@@ -1242,7 +1242,7 @@ There are the feats information for developers.
 | 1727 | 慈愛之祈 | 3 |
 | 1728 | 慈愛之祈 | 3 |
 
-## FEAT_WOLF_FANG(129)
+## 129. `FEAT_WOLF_FANG`
 | ID | Name | Pow |
 |----|------|-----|
 | 450 | 戰慓的狼牙 | 1 |
@@ -1252,21 +1252,21 @@ There are the feats information for developers.
 | 1730 | 戰慄的破邪 | 2 |
 | 1731 | 戰慄的破邪 | 2 |
 
-## FEAT_HAGAKURE(130)
+## 130. `FEAT_HAGAKURE`
 | ID | Name | Pow |
 |----|------|-----|
 | 457 | 葉隱術 | 1 |
 | 458 | 葉隱術 | 1 |
 | 459 | Ex葉隱術 | 0 |
 
-## FEAT_REPPU(131)
+## 131. `FEAT_REPPU`
 | ID | Name | Pow |
 |----|------|-----|
 | 460 | 烈風 | 1 |
 | 461 | 烈風 | 1 |
 | 462 | Ex烈風 | 1 |
 
-## FEAT_ENPI(132)
+## 132. `FEAT_ENPI`
 | ID | Name | Pow |
 |----|------|-----|
 | 463 | 燕飛 | 3 |
@@ -1275,14 +1275,14 @@ There are the feats information for developers.
 | 502 | 無限的齒輪 | 6 |
 | 852 | 連擊 | 5 |
 
-## FEAT_MIKAZUKI(133)
+## 133. `FEAT_MIKAZUKI`
 | ID | Name | Pow |
 |----|------|-----|
 | 466 | 弦月 | 5 |
 | 467 | 弦月 | 5 |
 | 468 | Ex弦月 | 10 |
 
-## FEAT_CASABLANCA(134)
+## 134. `FEAT_CASABLANCA`
 | ID | Name | Pow |
 |----|------|-----|
 | 469 | 卡薩布蘭卡之風 | 1 |
@@ -1292,14 +1292,14 @@ There are the feats information for developers.
 | 597 | 魂之行進 | 1 |
 | 598 | 魂之行進 | 2 |
 
-## FEAT_RHODESIA(135)
+## 135. `FEAT_RHODESIA`
 | ID | Name | Pow |
 |----|------|-----|
 | 472 | 羅德西亞之海 | 5 |
 | 473 | 羅德西亞之海 | 6 |
 | 474 | Ex羅德西亞之海 | 9 |
 
-## FEAT_MADRIPOOL(136)
+## 136. `FEAT_MADRIPOOL`
 | ID | Name | Pow |
 |----|------|-----|
 | 475 | 馬德里布魯的喧囂 | 2 |
@@ -1311,7 +1311,7 @@ There are the feats information for developers.
 | 1287 | 種子噴射 | 4 |
 | 1288 | 種子噴射 | 5 |
 
-## FEAT_ASIA(137)
+## 137. `FEAT_ASIA`
 | ID | Name | Pow |
 |----|------|-----|
 | 478 | 亞細亞的曙光 | 3 |
@@ -1319,7 +1319,7 @@ There are the feats information for developers.
 | 480 | Ex亞細亞的曙光 | 5 |
 | 547 | 燒盡一切之焰 | 9 |
 
-## FEAT_DEMONIC(138)
+## 138. `FEAT_DEMONIC`
 | ID | Name | Pow |
 |----|------|-----|
 | 494 | 魔化 | 5 |
@@ -1327,7 +1327,7 @@ There are the feats information for developers.
 | 518 | 無之波動 | 4 |
 | 519 | 無之波動 | 5 |
 
-## FEAT_SHADOW_SWORD(139)
+## 139. `FEAT_SHADOW_SWORD`
 | ID | Name | Pow |
 |----|------|-----|
 | 496 | 殘像劍 | 1 |
@@ -1335,100 +1335,100 @@ There are the feats information for developers.
 | 1564 | 光輪波 | 3 |
 | 1565 | 光輪波 | 3 |
 
-## FEAT_PERFECT_DEAD(140)
+## 140. `FEAT_PERFECT_DEAD`
 | ID | Name | Pow |
 |----|------|-----|
 | 497 | 完美之死 | 1 |
 | 498 | 完美之死 | 1 |
 | 499 | 完美之死 | 1 |
 
-## FEAT_DESTRUCT_GEAR(141)
+## 141. `FEAT_DESTRUCT_GEAR`
 | ID | Name | Pow |
 |----|------|-----|
 | 500 | 破壞的齒輪 | 2 |
 | 501 | 破壞的齒輪 | 2 |
 
-## FEAT_POWER_SHIFT(142)
+## 142. `FEAT_POWER_SHIFT`
 | ID | Name | Pow |
 |----|------|-----|
 | 506 | 力量轉移 | 1 |
 | 507 | 力量轉移 | 1 |
 
-## FEAT_KILL_SHOT(143)
+## 143. `FEAT_KILL_SHOT`
 | ID | Name | Pow |
 |----|------|-----|
 | 508 | 絕殺射擊 | 3 |
 
-## FEAT_DEFRECT(144)
+## 144. `FEAT_DEFRECT`
 | ID | Name | Pow |
 |----|------|-----|
 | 512 | 傷害偏移 | 5 |
 | 513 | 傷害偏移 | 4 |
 
-## FEAT_FLAME_OFFERING(145)
+## 145. `FEAT_FLAME_OFFERING`
 | ID | Name | Pow |
 |----|------|-----|
 | 531 | 炎之供品 | 1 |
 
-## FEAT_DRAIN_HAND(146)
+## 146. `FEAT_DRAIN_HAND`
 | ID | Name | Pow |
 |----|------|-----|
 | 533 | 黃金之手 | 6 |
 
-## FEAT_FIRE_PRIZON(147)
+## 147. `FEAT_FIRE_PRIZON`
 | ID | Name | Pow |
 |----|------|-----|
 | 534 | 焰之牢獄 | 5 |
 
-## FEAT_TIME_STOP(148)
+## 148. `FEAT_TIME_STOP`
 | ID | Name | Pow |
 |----|------|-----|
 | 536 | 時間凍結 | 1 |
 
-## FEAT_DEAD_GUARD(149)
+## 149. `FEAT_DEAD_GUARD`
 | ID | Name | Pow |
 |----|------|-----|
 | 537 | 永凍之守 | 1 |
 
-## FEAT_DEAD_BLUE(150)
+## 150. `FEAT_DEAD_BLUE`
 | ID | Name | Pow |
 |----|------|-----|
 | 538 | 蒼藍眼光 | 99 |
 | 1120 | 蒼藍眼光 | 7 |
 
-## FEAT_EVIL_GUARD(151)
+## 151. `FEAT_EVIL_GUARD`
 | ID | Name | Pow |
 |----|------|-----|
 | 539 | 善惡的彼岸 | 7 |
 | 1121 | 善惡的彼岸 | 7 |
 
-## FEAT_ABYSS_EYES(152)
+## 152. `FEAT_ABYSS_EYES`
 | ID | Name | Pow |
 |----|------|-----|
 | 540 | 來自深淵的視線 | 1 |
 | 1122 | 來自深淵的視線 | 1 |
 
-## FEAT_DEAD_RED(153)
+## 153. `FEAT_DEAD_RED`
 | ID | Name | Pow |
 |----|------|-----|
 | 541 | 赤紅眼光 | 99 |
 
-## FEAT_NIGHT_GHOST(154)
+## 154. `FEAT_NIGHT_GHOST`
 | ID | Name | Pow |
 |----|------|-----|
 | 543 | 幽冥之夜 | 7 |
 
-## FEAT_AVATAR_WAR(155)
+## 155. `FEAT_AVATAR_WAR`
 | ID | Name | Pow |
 |----|------|-----|
 | 544 | 人偶的軍勢 | 3 |
 
-## FEAT_CONFUSE_POOL(156)
+## 156. `FEAT_CONFUSE_POOL`
 | ID | Name | Pow |
 |----|------|-----|
 | 545 | 混沌之渦 | 1 |
 
-## FEAT_PROMINENCE(157)
+## 157. `FEAT_PROMINENCE`
 | ID | Name | Pow |
 |----|------|-----|
 | 546 | 日珥紅炎 | 2 |
@@ -1436,7 +1436,7 @@ There are the feats information for developers.
 | 612 | 吸魂 | 1 |
 | 613 | 吸魂 | 2 |
 
-## FEAT_BATTLE_AXE(158)
+## 158. `FEAT_BATTLE_AXE`
 | ID | Name | Pow |
 |----|------|-----|
 | 551 | 戰鬥巨斧 | 6 |
@@ -1444,130 +1444,130 @@ There are the feats information for developers.
 | 553 | Ex戰鬥巨斧 | 11 |
 | 813 | 三針 | 10 |
 
-## FEAT_MOAB(159)
+## 159. `FEAT_MOAB`
 | ID | Name | Pow |
 |----|------|-----|
 | 554 | MOAB | 2 |
 | 555 | MOAB | 2 |
 | 556 | ExMOAB | 3 |
 
-## FEAT_OVER_HEAT(160)
+## 160. `FEAT_OVER_HEAT`
 | ID | Name | Pow |
 |----|------|-----|
 | 557 | 過熱 | 6 |
 | 558 | 過熱 | 6 |
 | 559 | Ex過熱 | 8 |
 
-## FEAT_BLUE_ROSE(161)
+## 161. `FEAT_BLUE_ROSE`
 | ID | Name | Pow |
 |----|------|-----|
 | 560 | 蒼藍薔薇 | 0 |
 | 561 | 蒼藍薔薇 | 0 |
 | 562 | Ex蒼藍薔薇 | 4 |
 
-## FEAT_WHITE_CROW(162)
+## 162. `FEAT_WHITE_CROW`
 | ID | Name | Pow |
 |----|------|-----|
 | 563 | 白鴉 | 1 |
 | 564 | 白鴉 | 1 |
 | 565 | Ex白鴉 | 2 |
 
-## FEAT_RED_MOON(163)
+## 163. `FEAT_RED_MOON`
 | ID | Name | Pow |
 |----|------|-----|
 | 566 | 深紅之月 | 0 |
 | 567 | 深紅之月 | 2 |
 
-## FEAT_BLACK_SUN(164)
+## 164. `FEAT_BLACK_SUN`
 | ID | Name | Pow |
 |----|------|-----|
 | 569 | 漆黑太陽 | 0 |
 | 570 | 漆黑太陽 | 0 |
 | 571 | Ex漆黑太陽 | 4 |
 
-## FEAT_GIRASOLE(165)
+## 165. `FEAT_GIRASOLE`
 | ID | Name | Pow |
 |----|------|-----|
 | 572 | 向日葵 | 0 |
 | 573 | 向日葵 | 0 |
 | 574 | Ex向日葵 | 3 |
 
-## FEAT_VIOLETTA(166)
+## 166. `FEAT_VIOLETTA`
 | ID | Name | Pow |
 |----|------|-----|
 | 575 | 紫羅蘭 | 2 |
 | 576 | 紫羅蘭 | 2 |
 | 577 | Ex紫羅蘭 | 3 |
 
-## FEAT_DIGITALE(167)
+## 167. `FEAT_DIGITALE`
 | ID | Name | Pow |
 |----|------|-----|
 | 578 | 洋地黃 | 6 |
 | 579 | 洋地黃 | 7 |
 | 580 | Ex洋地黃 | 9 |
 
-## FEAT_ROSMARINO(168)
+## 168. `FEAT_ROSMARINO`
 | ID | Name | Pow |
 |----|------|-----|
 | 581 | 迷迭香 | 0 |
 | 582 | 迷迭香 | 0 |
 | 583 | Ex迷迭香 | 0 |
 
-## FEAT_HACHIYOU(169)
+## 169. `FEAT_HACHIYOU`
 | ID | Name | Pow |
 |----|------|-----|
 | 584 | 八葉 | 2 |
 | 585 | 八葉 | 3 |
 | 586 | Ex八葉 | 4 |
 
-## FEAT_STONE_CARE(170)
+## 170. `FEAT_STONE_CARE`
 | ID | Name | Pow |
 |----|------|-----|
 | 587 | 鐵石護身 | 4 |
 | 588 | 鐵石護身 | 5 |
 | 589 | Ex鐵石護身 | 9 |
 
-## FEAT_DUST_SWORD(171)
+## 171. `FEAT_DUST_SWORD`
 | ID | Name | Pow |
 |----|------|-----|
 | 590 | 絕塵劍 | 6 |
 | 591 | 絕塵劍 | 7 |
 | 592 | Ex絕塵劍 | 15 |
 
-## FEAT_ILLUSION(172)
+## 172. `FEAT_ILLUSION`
 | ID | Name | Pow |
 |----|------|-----|
 | 593 | 夢幻 | 0 |
 | 594 | 夢幻 | 0 |
 | 595 | Ex夢幻 | 5 |
 
-## FEAT_DESPAIR_SHOUT(173)
+## 173. `FEAT_DESPAIR_SHOUT`
 | ID | Name | Pow |
 |----|------|-----|
 | 602 | 惡魔之爪 | 1 |
 | 603 | 惡魔之爪 | 2 |
 | 604 | 惡魔之爪 | 2 |
 
-## FEAT_DARKNESS_SONG(174)
+## 174. `FEAT_DARKNESS_SONG`
 | ID | Name | Pow |
 |----|------|-----|
 | 610 | 暗黑神之歌 | 2 |
 
-## FEAT_GUARD_SPIRIT(175)
+## 175. `FEAT_GUARD_SPIRIT`
 | ID | Name | Pow |
 |----|------|-----|
 | 614 | 守護靈之魂 | 2 |
 | 615 | 守護靈之魂 | 3 |
 | 616 | 守護靈之魂 | 3 |
 
-## FEAT_SLAUGHTER_ORGAN(176)
+## 176. `FEAT_SLAUGHTER_ORGAN`
 | ID | Name | Pow |
 |----|------|-----|
 | 620 | 殺戮器官 | 0 |
 | 621 | 殺戮器官 | 0 |
 | 622 | Ex殺戮器官 | 0 |
 
-## FEAT_FOOLS_HAND(177)
+## 177. `FEAT_FOOLS_HAND`
 | ID | Name | Pow |
 |----|------|-----|
 | 623 | 愚者之手 | 3 |
@@ -1575,7 +1575,7 @@ There are the feats information for developers.
 | 625 | Ex愚者之手 | 5 |
 | 866 | 聖者的睥睨 | 5 |
 
-## FEAT_TIME_SEED(178)
+## 178. `FEAT_TIME_SEED`
 | ID | Name | Pow |
 |----|------|-----|
 | 626 | 時間種子 | 4 |
@@ -1583,42 +1583,42 @@ There are the feats information for developers.
 | 628 | Ex時間種子 | 6 |
 | 865 | 時間種子 | 9 |
 
-## FEAT_IRONGATE_OF_FATE(179)
+## 179. `FEAT_IRONGATE_OF_FATE`
 | ID | Name | Pow |
 |----|------|-----|
 | 629 | 命運的鐵門 | 3 |
 | 630 | 命運的鐵門 | 3 |
 | 631 | Ex命運的鐵門 | 5 |
 
-## FEAT_GATHERER(180)
+## 180. `FEAT_GATHERER`
 | ID | Name | Pow |
 |----|------|-----|
 | 632 | 『收掠者』 | 1 |
 | 633 | 『收掠者』 | 1 |
 | 634 | Ex『收掠者』 | 1 |
 
-## FEAT_JUDGE(181)
+## 181. `FEAT_JUDGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 635 | 『審判』 | 2 |
 | 636 | 『審判』 | 3 |
 | 637 | Ex『審判』 | 6 |
 
-## FEAT_DREAM(182)
+## 182. `FEAT_DREAM`
 | ID | Name | Pow |
 |----|------|-----|
 | 638 | 『夢』 | 3 |
 | 639 | 『夢』 | 4 |
 | 640 | Ex『夢』 | 5 |
 
-## FEAT_ONE_ABOVE_ALL(183)
+## 183. `FEAT_ONE_ABOVE_ALL`
 | ID | Name | Pow |
 |----|------|-----|
 | 641 | 『萬物主宰』 | 2 |
 | 642 | 『萬物主宰』 | 2 |
 | 643 | Ex『萬物主宰』 | 2 |
 
-## FEAT_ANTISEPTIC(184)
+## 184. `FEAT_ANTISEPTIC`
 | ID | Name | Pow |
 |----|------|-----|
 | 646 | 滅菌空間 | 0 |
@@ -1628,7 +1628,7 @@ There are the feats information for developers.
 | 1700 | 滅菌空間 | 0 |
 | 1701 | Ex滅菌空間 | 3 |
 
-## FEAT_SILVER_MACHINE(185)
+## 185. `FEAT_SILVER_MACHINE`
 | ID | Name | Pow |
 |----|------|-----|
 | 649 | 白銀戰機 | 3 |
@@ -1638,7 +1638,7 @@ There are the feats information for developers.
 | 1703 | 白銀戰機 | 4 |
 | 1704 | Ex白銀戰機 | 8 |
 
-## FEAT_ATOM_HEART(186)
+## 186. `FEAT_ATOM_HEART`
 | ID | Name | Pow |
 |----|------|-----|
 | 652 | 原子之心 | 1 |
@@ -1648,7 +1648,7 @@ There are the feats information for developers.
 | 1706 | 原子之心 | 2 |
 | 1707 | Ex原子之心 | 3 |
 
-## FEAT_ELECTRIC_SURGERY(187)
+## 187. `FEAT_ELECTRIC_SURGERY`
 | ID | Name | Pow |
 |----|------|-----|
 | 655 | 高頻電磁手術刀 | 24 |
@@ -1659,91 +1659,91 @@ There are the feats information for developers.
 | 1709 | 高頻電磁手術刀 | 24 |
 | 1710 | Ex高頻電磁手術刀 | 28 |
 
-## FEAT_ACID_EATER(188)
+## 188. `FEAT_ACID_EATER`
 | ID | Name | Pow |
 |----|------|-----|
 | 658 | 酸蝕者 | 1 |
 | 659 | 酸蝕者 | 1 |
 | 660 | Ex酸蝕者 | 1 |
 
-## FEAT_DEAD_LOCK(189)
+## 189. `FEAT_DEAD_LOCK`
 | ID | Name | Pow |
 |----|------|-----|
 | 661 | 異空僵局 | 5 |
 | 662 | 異空僵局 | 6 |
 | 663 | Ex異空僵局 | 9 |
 
-## FEAT_BEGGARS_BANQUET(190)
+## 190. `FEAT_BEGGARS_BANQUET`
 | ID | Name | Pow |
 |----|------|-----|
 | 664 | 叫化盛宴 | 4 |
 | 665 | 叫化盛宴 | 5 |
 | 666 | Ex叫化盛宴 | 50 |
 
-## FEAT_SWAN_SONG(191)
+## 191. `FEAT_SWAN_SONG`
 | ID | Name | Pow |
 |----|------|-----|
 | 667 | 天鵝絕唱 | 5 |
 | 668 | 天鵝絕唱 | 5 |
 | 669 | Ex天鵝絕唱 | 3 |
 
-## FEAT_IDLE_GRAVE(192)
+## 192. `FEAT_IDLE_GRAVE`
 | ID | Name | Pow |
 |----|------|-----|
 | 672 | 怠惰的墓碑 | 2 |
 | 673 | 怠惰的墓碑 | 2 |
 | 674 | Ex怠惰的墓碑 | 3 |
 
-## FEAT_SORROW_SONG(193)
+## 193. `FEAT_SORROW_SONG`
 | ID | Name | Pow |
 |----|------|-----|
 | 675 | 慟哭之歌 | 2 |
 | 676 | 慟哭之歌 | 1 |
 | 677 | Ex慟哭之歌 | 0 |
 
-## FEAT_RED_WHEEL(194)
+## 194. `FEAT_RED_WHEEL`
 | ID | Name | Pow |
 |----|------|-----|
 | 678 | 紅蓮車輪 | 12 |
 | 679 | 紅蓮車輪 | 13 |
 | 680 | Ex紅蓮車輪 | 18 |
 
-## FEAT_RED_POMEGRANATE(195)
+## 195. `FEAT_RED_POMEGRANATE`
 | ID | Name | Pow |
 |----|------|-----|
 | 681 | 赤紅石榴 | 0 |
 | 682 | 赤紅石榴 | 0 |
 | 683 | Ex赤紅石榴 | 0 |
 
-## FEAT_CLOCK_WORKS(196)
+## 196. `FEAT_CLOCK_WORKS`
 | ID | Name | Pow |
 |----|------|-----|
 | 684 | 發條機構 | 2 |
 | 685 | 發條機構 | 2 |
 | 686 | Ex發條機構 | 1 |
 
-## FEAT_TIME_HUNT(197)
+## 197. `FEAT_TIME_HUNT`
 | ID | Name | Pow |
 |----|------|-----|
 | 687 | 時間追獵 | 1 |
 | 688 | 時間追獵 | 1 |
 | 689 | Ex時間追獵 | 5 |
 
-## FEAT_TIME_BOMB(198)
+## 198. `FEAT_TIME_BOMB`
 | ID | Name | Pow |
 |----|------|-----|
 | 690 | 時間爆彈 | 6 |
 | 691 | 時間爆彈 | 7 |
 | 692 | Ex時間爆彈 | 11 |
 
-## FEAT_IN_THE_EVENING(199)
+## 199. `FEAT_IN_THE_EVENING`
 | ID | Name | Pow |
 |----|------|-----|
 | 693 | 夜幕時分 | 0 |
 | 694 | 夜幕時分 | 0 |
 | 695 | Ex夜幕時分 | 0 |
 
-## FEAT_FINAL_WALTZ(200)
+## 200. `FEAT_FINAL_WALTZ`
 | ID | Name | Pow |
 |----|------|-----|
 | 696 | 終局的圓舞曲 | 6 |
@@ -1753,118 +1753,118 @@ There are the feats information for developers.
 | 1402 | 落花星 | 3 |
 | 1403 | 落花星 | 2 |
 
-## FEAT_DESPERATE_SONATA(201)
+## 201. `FEAT_DESPERATE_SONATA`
 | ID | Name | Pow |
 |----|------|-----|
 | 699 | 自棄的奏鳴曲 | 1 |
 | 700 | 自棄的奏鳴曲 | 1 |
 | 701 | Ex自棄的奏鳴曲 | 2 |
 
-## FEAT_GLADIATOR_MARCH(202)
+## 202. `FEAT_GLADIATOR_MARCH`
 | ID | Name | Pow |
 |----|------|-----|
 | 702 | 劍鬥士的進行曲 | 7 |
 | 703 | 劍鬥士的進行曲 | 8 |
 | 704 | Ex劍鬥士的進行曲 | 14 |
 
-## FEAT_REQUIEM_OF_REVENGE(203)
+## 203. `FEAT_REQUIEM_OF_REVENGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 705 | 恩仇的鎮魂曲 | 5 |
 | 706 | 恩仇的鎮魂曲 | 5 |
 | 707 | Ex恩仇的鎮魂曲 | 10 |
 
-## FEAT_DELICIOUS_MILK(204)
+## 204. `FEAT_DELICIOUS_MILK`
 | ID | Name | Pow |
 |----|------|-----|
 | 708 | 美味牛奶 | 9 |
 | 709 | 美味牛奶 | 10 |
 | 710 | Ex美味牛奶 | 13 |
 
-## FEAT_EASY_INJECTION(205)
+## 205. `FEAT_EASY_INJECTION`
 | ID | Name | Pow |
 |----|------|-----|
 | 711 | 溫柔注射 | 4 |
 | 712 | 溫柔注射 | 5 |
 | 713 | Ex溫柔注射 | 7 |
 
-## FEAT_BLOOD_COLLECTING(206)
+## 206. `FEAT_BLOOD_COLLECTING`
 | ID | Name | Pow |
 |----|------|-----|
 | 714 | 愉快抽血 | 4 |
 | 715 | 愉快抽血 | 5 |
 | 716 | Ex愉快抽血 | 6 |
 
-## FEAT_SECRET_MEDICINE(207)
+## 207. `FEAT_SECRET_MEDICINE`
 | ID | Name | Pow |
 |----|------|-----|
 | 717 | 秘密苦藥 | 10 |
 | 718 | 秘密苦藥 | 10 |
 | 719 | Ex秘密苦藥 | 20 |
 
-## FEAT_ICE_GATE(208)
+## 208. `FEAT_ICE_GATE`
 | ID | Name | Pow |
 |----|------|-----|
 | 720 | 冰之門 | 10 |
 
-## FEAT_FIRE_GATE(209)
+## 209. `FEAT_FIRE_GATE`
 | ID | Name | Pow |
 |----|------|-----|
 | 721 | 炎之門 | 10 |
 
-## FEAT_BREAK_GATE(210)
+## 210. `FEAT_BREAK_GATE`
 | ID | Name | Pow |
 |----|------|-----|
 | 722 | 崩壞之門 | 10 |
 
-## FEAT_SHOUT_OF_GATE(211)
+## 211. `FEAT_SHOUT_OF_GATE`
 | ID | Name | Pow |
 |----|------|-----|
 | 723 | 聖域的叫喊 | 2 |
 
-## FEAT_FERREOUS_ANGER(212)
+## 212. `FEAT_FERREOUS_ANGER`
 | ID | Name | Pow |
 |----|------|-----|
 | 724 | 無上之怒 | 7 |
 | 725 | 無上之怒 | 8 |
 | 726 | Ex無上之怒 | 10 |
 
-## FEAT_NAME_OF_CHARITY(213)
+## 213. `FEAT_NAME_OF_CHARITY`
 | ID | Name | Pow |
 |----|------|-----|
 | 727 | 慈悲之名 | 1 |
 | 728 | 慈悲之名 | 2 |
 | 729 | Ex慈悲之名 | 2 |
 
-## FEAT_GOOD_WILL(214)
+## 214. `FEAT_GOOD_WILL`
 | ID | Name | Pow |
 |----|------|-----|
 | 730 | 祝善之意 | 1 |
 | 731 | 祝善之意 | 2 |
 | 732 | Ex祝善之意 | 3 |
 
-## FEAT_GREAT_VENGEANCE(215)
+## 215. `FEAT_GREAT_VENGEANCE`
 | ID | Name | Pow |
 |----|------|-----|
 | 733 | 極致復仇 | 9 |
 | 734 | 極致復仇 | 9 |
 | 735 | Ex極致復仇 | 12 |
 
-## FEAT_INNOCENT_SOUL(216)
+## 216. `FEAT_INNOCENT_SOUL`
 | ID | Name | Pow |
 |----|------|-----|
 | 736 | 無縫天衣 | 3 |
 | 737 | 無縫天衣 | 4 |
 | 738 | Ex無縫天衣 | 5 |
 
-## FEAT_INFALLIBLE_DEED(217)
+## 217. `FEAT_INFALLIBLE_DEED`
 | ID | Name | Pow |
 |----|------|-----|
 | 739 | 光彩陸離 | 1 |
 | 740 | 光彩陸離 | 1 |
 | 741 | Ex光彩陸離 | 2 |
 
-## FEAT_IDLE_FATE(218)
+## 218. `FEAT_IDLE_FATE`
 | ID | Name | Pow |
 |----|------|-----|
 | 742 | 轉生輪迴 | 5 |
@@ -1874,70 +1874,70 @@ There are the feats information for developers.
 | 1381 | 強襲彗星 | 5 |
 | 1382 | Ex強襲彗星 | 8 |
 
-## FEAT_REGRETTABLE_JUDGMENT(219)
+## 219. `FEAT_REGRETTABLE_JUDGMENT`
 | ID | Name | Pow |
 |----|------|-----|
 | 745 | 往生極樂 | 99 |
 | 746 | 往生極樂 | 99 |
 | 747 | Ex往生極樂 | 99 |
 
-## FEAT_SIN_WRIGGLE(220)
+## 220. `FEAT_SIN_WRIGGLE`
 | ID | Name | Pow |
 |----|------|-----|
 | 748 | 罪業的蠢動 | 3 |
 | 749 | 罪業的蠢動 | 4 |
 | 750 | Ex罪業的蠢動 | 4 |
 
-## FEAT_IDLE_GROAN(221)
+## 221. `FEAT_IDLE_GROAN`
 | ID | Name | Pow |
 |----|------|-----|
 | 751 | 懶惰的呻吟 | 5 |
 | 752 | 懶惰的呻吟 | 6 |
 | 753 | Ex懶惰的呻吟 | 10 |
 
-## FEAT_CONTAMINATION_SORROW(222)
+## 222. `FEAT_CONTAMINATION_SORROW`
 | ID | Name | Pow |
 |----|------|-----|
 | 754 | 污濁的嘆息 | 1 |
 | 755 | 污濁的嘆息 | 1 |
 | 756 | Ex污濁的嘆息 | 1 |
 
-## FEAT_FAILURE_GROAN(223)
+## 223. `FEAT_FAILURE_GROAN`
 | ID | Name | Pow |
 |----|------|-----|
 | 757 | 挫折的騷音 | 13 |
 | 758 | 挫折的騷音 | 13 |
 | 759 | Ex挫折的騷音 | 15 |
 
-## FEAT_CATHEDRAL(224)
+## 224. `FEAT_CATHEDRAL`
 | ID | Name | Pow |
 |----|------|-----|
 | 760 | 大聖堂 | 0 |
 | 761 | 大聖堂 | 0 |
 | 762 | Ex大聖堂 | 3 |
 
-## FEAT_WINTER_DREAM(225)
+## 225. `FEAT_WINTER_DREAM`
 | ID | Name | Pow |
 |----|------|-----|
 | 763 | 冬之夢 | 5 |
 | 764 | 冬之夢 | 6 |
 | 765 | Ex冬之夢 | 10 |
 
-## FEAT_TENDER_NIGHT(226)
+## 226. `FEAT_TENDER_NIGHT`
 | ID | Name | Pow |
 |----|------|-----|
 | 766 | 夜未央 | 1 |
 | 767 | 夜未央 | 1 |
 | 768 | Ex夜未央 | 2 |
 
-## FEAT_FORTUNATE_REASON(227)
+## 227. `FEAT_FORTUNATE_REASON`
 | ID | Name | Pow |
 |----|------|-----|
 | 769 | 幸福的理由 | 3 |
 | 770 | 幸福的理由 | 3 |
 | 771 | Ex幸福的理由 | 4 |
 
-## FEAT_RUD_NUM(228)
+## 228. `FEAT_RUD_NUM`
 | ID | Name | Pow |
 |----|------|-----|
 | 772 | Rud-913 | 5 |
@@ -1947,7 +1947,7 @@ There are the feats information for developers.
 | 1447 | Rud-913 | 6 |
 | 1448 | Ex Rud-913 | 10 |
 
-## FEAT_VON_NUM(229)
+## 229. `FEAT_VON_NUM`
 | ID | Name | Pow |
 |----|------|-----|
 | 775 | Von-541 | 3 |
@@ -1957,7 +1957,7 @@ There are the feats information for developers.
 | 1450 | Von-541 | 4 |
 | 1451 | Ex Von-541 | 6 |
 
-## FEAT_CHR_NUM(230)
+## 230. `FEAT_CHR_NUM`
 | ID | Name | Pow |
 |----|------|-----|
 | 778 | Chr-799 | 5 |
@@ -1967,7 +1967,7 @@ There are the feats information for developers.
 | 1453 | Chr-799 | 6 |
 | 1454 | Ex Chr-799 | 9 |
 
-## FEAT_WIL_NUM(231)
+## 231. `FEAT_WIL_NUM`
 | ID | Name | Pow |
 |----|------|-----|
 | 781 | Wil-846 | 2 |
@@ -1977,63 +1977,63 @@ There are the feats information for developers.
 | 1456 | Wil-846 | 2 |
 | 1457 | Ex Wil-846 | 3 |
 
-## FEAT_PRECISION_FIRE(232)
+## 232. `FEAT_PRECISION_FIRE`
 | ID | Name | Pow |
 |----|------|-----|
 | 784 | 精密射擊 | 8 |
 | 785 | 精密射擊 | 9 |
 | 786 | 精密射擊 | 12 |
 
-## FEAT_PURPLE_LIGHTNING(233)
+## 233. `FEAT_PURPLE_LIGHTNING`
 | ID | Name | Pow |
 |----|------|-----|
 | 790 | 紫電 | 7 |
 | 791 | 紫電 | 10 |
 | 792 | 紫電 | 14 |
 
-## FEAT_MORTAL_STYLE(234)
+## 234. `FEAT_MORTAL_STYLE`
 | ID | Name | Pow |
 |----|------|-----|
 | 793 | 必殺架勢 | 3 |
 | 794 | 必殺架勢 | 5 |
 | 795 | 必殺架勢 | 7 |
 
-## FEAT_BLOODY_HOWL(235)
+## 235. `FEAT_BLOODY_HOWL`
 | ID | Name | Pow |
 |----|------|-----|
 | 799 | 血腥哀號 | 6 |
 | 800 | 血腥哀號 | 8 |
 | 801 | 血腥哀號 | 10 |
 
-## FEAT_CHARGED_THRUST(236)
+## 236. `FEAT_CHARGED_THRUST`
 | ID | Name | Pow |
 |----|------|-----|
 | 802 | 閃電旋風刺 | 8 |
 | 803 | 閃電旋風刺 | 10 |
 | 804 | 閃電旋風刺 | 12 |
 
-## FEAT_SWORD_DANCE(237)
+## 237. `FEAT_SWORD_DANCE`
 | ID | Name | Pow |
 |----|------|-----|
 | 805 | 幻影劍舞 | 2 |
 | 806 | 幻影劍舞 | 3 |
 | 807 | 幻影劍舞 | 4 |
 
-## FEAT_SWORD_AVOID(238)
+## 238. `FEAT_SWORD_AVOID`
 | ID | Name | Pow |
 |----|------|-----|
 | 808 | 格擋 | 2 |
 | 809 | 格擋 | 2 |
 | 810 | 格擋 | 3 |
 
-## FEAT_KUTUNESIRKA(239)
+## 239. `FEAT_KUTUNESIRKA`
 | ID | Name | Pow |
 |----|------|-----|
 | 814 | 腐朽之靈 | 5 |
 | 815 | 腐朽之靈 | 6 |
 | 816 | Ex腐朽之靈 | 8 |
 
-## FEAT_FEET_OF_HERMES(240)
+## 240. `FEAT_FEET_OF_HERMES`
 | ID | Name | Pow |
 |----|------|-----|
 | 817 | 朦朧之暗 | 5 |
@@ -2043,21 +2043,21 @@ There are the feats information for developers.
 | 1561 | 光速移動 | 5 |
 | 1562 | 光速移動 | 7 |
 
-## FEAT_AEGIS_WING(241)
+## 241. `FEAT_AEGIS_WING`
 | ID | Name | Pow |
 |----|------|-----|
 | 820 | 暗影之翼 | 5 |
 | 821 | 暗影之翼 | 6 |
 | 822 | Ex暗影之翼 | 9 |
 
-## FEAT_CLAIOMH_SOLAIS(242)
+## 242. `FEAT_CLAIOMH_SOLAIS`
 | ID | Name | Pow |
 |----|------|-----|
 | 823 | 渦騎劍閃 | 8 |
 | 824 | 渦騎劍閃 | 8 |
 | 825 | Ex渦騎劍閃 | 16 |
 
-## FEAT_MUTATION(243)
+## 243. `FEAT_MUTATION`
 | ID | Name | Pow |
 |----|------|-----|
 | 826 | 細胞異變 | 1 |
@@ -2067,7 +2067,7 @@ There are the feats information for developers.
 | 1459 | 細胞異變 | 2 |
 | 1460 | Ex細胞異變 | 3 |
 
-## FEAT_RAMPANCY(244)
+## 244. `FEAT_RAMPANCY`
 | ID | Name | Pow |
 |----|------|-----|
 | 829 | 唆惡之童 | 0 |
@@ -2077,7 +2077,7 @@ There are the feats information for developers.
 | 1462 | 唆惡之童 | 0 |
 | 1463 | Ex唆惡之童 | 1 |
 
-## FEAT_SACRIFICE_OF_SOUL(245)
+## 245. `FEAT_SACRIFICE_OF_SOUL`
 | ID | Name | Pow |
 |----|------|-----|
 | 832 | 魂魄的奉禮 | 5 |
@@ -2087,7 +2087,7 @@ There are the feats information for developers.
 | 1465 | 魂魄的奉禮 | 4 |
 | 1466 | Ex魂魄的奉禮 | 0 |
 
-## FEAT_SILVER_BULLET(246)
+## 246. `FEAT_SILVER_BULLET`
 | ID | Name | Pow |
 |----|------|-----|
 | 835 | 哀切的殘光 | 2 |
@@ -2097,41 +2097,41 @@ There are the feats information for developers.
 | 1468 | 哀切的殘光 | 2 |
 | 1469 | Ex哀切的殘光 | 3 |
 
-## FEAT_PUMPKIN_DROP(247)
+## 247. `FEAT_PUMPKIN_DROP`
 | ID | Name | Pow |
 |----|------|-----|
 | 838 | 南瓜降臨 | 5 |
 | 1088 | 南瓜降臨 | 5 |
 
-## FEAT_WANDERING_FEATHER(248)
+## 248. `FEAT_WANDERING_FEATHER`
 | ID | Name | Pow |
 |----|------|-----|
 | 839 | 夢幻魔杖 | 3 |
 | 840 | 夢幻魔杖 | 4 |
 | 841 | Ex夢幻魔杖 | 5 |
 
-## FEAT_SHEEP_SONG(249)
+## 249. `FEAT_SHEEP_SONG`
 | ID | Name | Pow |
 |----|------|-----|
 | 842 | 徬徨夢羽 | 3 |
 | 843 | 徬徨夢羽 | 4 |
 | 844 | Ex徬徨夢羽 | 5 |
 
-## FEAT_DREAM_OF_OVUERYA(250)
+## 250. `FEAT_DREAM_OF_OVUERYA`
 | ID | Name | Pow |
 |----|------|-----|
 | 845 | 綿羊幻夢 | 6 |
 | 846 | 綿羊幻夢 | 5 |
 | 847 | Ex綿羊幻夢 | 4 |
 
-## FEAT_MARYS_SHEEP(251)
+## 251. `FEAT_MARYS_SHEEP`
 | ID | Name | Pow |
 |----|------|-----|
 | 848 | 夢境搖籃 | 3 |
 | 849 | 夢境搖籃 | 3 |
 | 850 | Ex夢境搖籃 | 5 |
 
-## FEAT_EVIL_EYE(252)
+## 252. `FEAT_EVIL_EYE`
 | ID | Name | Pow |
 |----|------|-----|
 | 853 | 鮮明的邪光 | 5 |
@@ -2141,7 +2141,7 @@ There are the feats information for developers.
 | 1712 | 鮮明的邪光 | 6 |
 | 1713 | Ex鮮明的邪光 | 9 |
 
-## FEAT_BLACK_ARTS(253)
+## 253. `FEAT_BLACK_ARTS`
 | ID | Name | Pow |
 |----|------|-----|
 | 856 | 超越者的邪法 | 3 |
@@ -2151,7 +2151,7 @@ There are the feats information for developers.
 | 1715 | 超越者的邪法 | 4 |
 | 1716 | Ex超越者的邪法 | 6 |
 
-## FEAT_BLASPHEMY_CURSE(254)
+## 254. `FEAT_BLASPHEMY_CURSE`
 | ID | Name | Pow |
 |----|------|-----|
 | 859 | 冒瀆的詛咒 | 3 |
@@ -2161,7 +2161,7 @@ There are the feats information for developers.
 | 1718 | 冒瀆的詛咒 | 3 |
 | 1719 | Ex冒瀆的詛咒 | 3 |
 
-## FEAT_END_OF_END(255)
+## 255. `FEAT_END_OF_END`
 | ID | Name | Pow |
 |----|------|-----|
 | 862 | 絕命的盡頭 | 3 |
@@ -2171,86 +2171,86 @@ There are the feats information for developers.
 | 1721 | 絕命的盡頭 | 3 |
 | 1722 | Ex絕命的盡頭 | 7 |
 
-## FEAT_THRONES_GATE(256)
+## 256. `FEAT_THRONES_GATE`
 | ID | Name | Pow |
 |----|------|-----|
 | 867 | 王座的凱旋門 | 5 |
 
-## FEAT_GHOST_RESENTMENT(257)
+## 257. `FEAT_GHOST_RESENTMENT`
 | ID | Name | Pow |
 |----|------|-----|
 | 868 | 幽愁暗恨 | 8 |
 
-## FEAT_CURSE_SWORD(258)
+## 258. `FEAT_CURSE_SWORD`
 | ID | Name | Pow |
 |----|------|-----|
 | 227 | Ex咒劍 | 5 |
 
-## FEAT_RAPID_SWORD_R2(259)
+## 259. `FEAT_RAPID_SWORD_R2`
 | ID | Name | Pow |
 |----|------|-----|
 | 873 | 神速之劍 | 6 |
 | 874 | 神速之劍 | 12 |
 | 875 | 神速之劍 | 12 |
 
-## FEAT_ANGER_R(260)
+## 260. `FEAT_ANGER_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 876 | 憤怒的一擊 | 0 |
 | 877 | 憤怒的一擊 | 10 |
 | 878 | 憤怒的一擊 | 10 |
 
-## FEAT_VOLITION_DEFLECT(261)
+## 261. `FEAT_VOLITION_DEFLECT`
 | ID | Name | Pow |
 |----|------|-----|
 | 879 | 意志偏轉 | 0 |
 | 880 | 意志偏轉 | 1 |
 | 881 | 意志偏轉 | 1 |
 
-## FEAT_SHAROW_SHOT_R(262)
+## 262. `FEAT_SHAROW_SHOT_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 882 | 劫影攻擊 | 2 |
 | 883 | 劫影攻擊 | 3 |
 | 884 | 劫影攻擊 | 3 |
 
-## FEAT_BURNING_TAIL(263)
+## 263. `FEAT_BURNING_TAIL`
 | ID | Name | Pow |
 |----|------|-----|
 | 885 | 嚇灼之尾 | 0 |
 | 886 | 嚇灼之尾 | 1 |
 | 887 | 嚇灼之尾 | 1 |
 
-## FEAT_QUAKE_WALK(264)
+## 264. `FEAT_QUAKE_WALK`
 | ID | Name | Pow |
 |----|------|-----|
 | 891 | 共鳴 | 0 |
 | 918 | 共鳴 | 0 |
 | 922 | 共鳴 | 0 |
 
-## FEAT_DRAINAGE(265)
+## 265. `FEAT_DRAINAGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 894 | 引流 | 3 |
 | 921 | 引流 | 3 |
 | 925 | 引流 | 3 |
 
-## FEAT_SMILE(266)
+## 266. `FEAT_SMILE`
 | ID | Name | Pow |
 |----|------|-----|
 | 895 | 櫻花草 | 2 |
 
-## FEAT_BLUTKONTAMINA(267)
+## 267. `FEAT_BLUTKONTAMINA`
 | ID | Name | Pow |
 |----|------|-----|
 | 900 | 血統污染 | 8 |
 
-## FEAT_COLD_EYES(268)
+## 268. `FEAT_COLD_EYES`
 | ID | Name | Pow |
 |----|------|-----|
 | 898 | 風鈴草 | 1 |
 
-## FEAT_FEAT1(269)
+## 269. `FEAT_FEAT1`
 | ID | Name | Pow |
 |----|------|-----|
 | 903 | 奸佞的鐵鎚 | 4 |
@@ -2258,7 +2258,7 @@ There are the feats information for developers.
 | 905 | Ex奸佞的鐵鎚 | 7 |
 | 915 | 奸佞的鐵鎚 | 5 |
 
-## FEAT_FEAT2(270)
+## 270. `FEAT_FEAT2`
 | ID | Name | Pow |
 |----|------|-----|
 | 906 | 不善的信仰 | 3 |
@@ -2266,7 +2266,7 @@ There are the feats information for developers.
 | 908 | Ex不善的信仰 | 2 |
 | 916 | 不善的信仰 | 3 |
 
-## FEAT_FEAT3(271)
+## 271. `FEAT_FEAT3`
 | ID | Name | Pow |
 |----|------|-----|
 | 909 | 曲惡的安寧 | 4 |
@@ -2274,311 +2274,311 @@ There are the feats information for developers.
 | 911 | Ex曲惡的安寧 | 8 |
 | 917 | 曲惡的安寧 | 6 |
 
-## FEAT_FEAT4(272)
+## 272. `FEAT_FEAT4`
 | ID | Name | Pow |
 |----|------|-----|
 | 912 | 超載 | 1 |
 | 913 | 超載 | 1 |
 | 914 | Ex超載 | 2 |
 
-## FEAT_WEASEL(273)
+## 273. `FEAT_WEASEL`
 | ID | Name | Pow |
 |----|------|-----|
 | 926 | 無形白群之鼬 | 0 |
 | 927 | 無形白群之鼬 | 1 |
 | 928 | 無形白群之鼬 | 1 |
 
-## FEAT_DARK_PROFOUND(274)
+## 274. `FEAT_DARK_PROFOUND`
 | ID | Name | Pow |
 |----|------|-----|
 | 932 | 黑暗漩渦 | 2 |
 | 933 | 黑暗漩渦 | 3 |
 | 934 | 黑暗漩渦 | 3 |
 
-## FEAT_KARMIC_DOR(275)
+## 275. `FEAT_KARMIC_DOR`
 | ID | Name | Pow |
 |----|------|-----|
 | 938 | 因果之門 | 0 |
 | 939 | 因果之門 | 1 |
 | 940 | 因果之門 | 1 |
 
-## FEAT_BATAFLY_MOV(276)
+## 276. `FEAT_BATAFLY_MOV`
 | ID | Name | Pow |
 |----|------|-----|
 | 944 | 蛛網 | 1 |
 | 945 | 蛛網 | 1 |
 | 946 | Ex蛛網 | 2 |
 
-## FEAT_BATAFLY_ATK(277)
+## 277. `FEAT_BATAFLY_ATK`
 | ID | Name | Pow |
 |----|------|-----|
 | 950 | 蝶舞 | 4 |
 | 951 | 蝶舞 | 5 |
 | 952 | Ex蝶舞 | 6 |
 
-## FEAT_BATAFLY_DEF(278)
+## 278. `FEAT_BATAFLY_DEF`
 | ID | Name | Pow |
 |----|------|-----|
 | 947 | 蜂巢 | 2 |
 | 948 | 蜂巢 | 3 |
 | 949 | Ex蜂巢 | 4 |
 
-## FEAT_BATAFLY_SLD(279)
+## 279. `FEAT_BATAFLY_SLD`
 | ID | Name | Pow |
 |----|------|-----|
 | 953 | 蟲笛 | 2 |
 | 954 | 蟲笛 | 2 |
 | 955 | Ex蟲笛 | 4 |
 
-## FEAT_GRACE_COCKTAIL(280)
+## 280. `FEAT_GRACE_COCKTAIL`
 | ID | Name | Pow |
 |----|------|-----|
 | 956 | 調合烈酒 | 4 |
 | 957 | 調合烈酒 | 4 |
 | 958 | 調合烈酒 | 6 |
 
-## FEAT_LAND_MINE_R(281)
+## 281. `FEAT_LAND_MINE_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 959 | 大地崩壞 | 3 |
 | 960 | 大地崩壞 | 4 |
 | 961 | 大地崩壞 | 4 |
 
-## FEAT_NAPALM_DEATH(282)
+## 282. `FEAT_NAPALM_DEATH`
 | ID | Name | Pow |
 |----|------|-----|
 | 962 | 致命燃燒彈 | 9 |
 | 963 | 致命燃燒彈 | 9 |
 | 964 | 致命燃燒彈 | 16 |
 
-## FEAT_SUICIDAL_FAILURE(283)
+## 283. `FEAT_SUICIDAL_FAILURE`
 | ID | Name | Pow |
 |----|------|-----|
 | 965 | 自殺誤謬 | 5 |
 | 966 | 自殺誤謬 | 6 |
 | 967 | 自殺誤謬 | 6 |
 
-## FEAT_BIG_BRAGG_R(284)
+## 284. `FEAT_BIG_BRAGG_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 968 | 巨大黑犬 | 5 |
 | 969 | 巨大黑犬 | 6 |
 | 970 | 巨大黑犬 | 6 |
 
-## FEAT_LETS_KNIFE_R(285)
+## 285. `FEAT_LETS_KNIFE_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 971 | 飛刃雨 | 3 |
 | 972 | 飛刃雨 | 3 |
 | 973 | 飛刃雨 | 3 |
 
-## FEAT_PREY(286)
+## 286. `FEAT_PREY`
 | ID | Name | Pow |
 |----|------|-----|
 | 975 | 捕食 | 5 |
 | 979 | 捕食 | 4 |
 | 983 | 捕食 | 3 |
 
-## FEAT_RUMINATION(287)
+## 287. `FEAT_RUMINATION`
 | ID | Name | Pow |
 |----|------|-----|
 | 974 | 浮誇的靜寂 | 5 |
 | 978 | 浮誇的靜寂 | 5 |
 | 982 | 浮誇的靜寂 | 5 |
 
-## FEAT_PILUM(288)
+## 288. `FEAT_PILUM`
 | ID | Name | Pow |
 |----|------|-----|
 | 976 | 顧忌的絕望 | 5 |
 | 980 | 顧忌的絕望 | 4 |
 | 984 | 顧忌的絕望 | 3 |
 
-## FEAT_ROAD_OF_UNDERGROUND(289)
+## 289. `FEAT_ROAD_OF_UNDERGROUND`
 | ID | Name | Pow |
 |----|------|-----|
 | 977 | 狂舞襲來的氣息 | 6 |
 | 981 | 狂舞襲來的氣息 | 5 |
 | 985 | 狂舞襲來的氣息 | 4 |
 
-## FEAT_FOX_SHADOW(290)
+## 290. `FEAT_FOX_SHADOW`
 | ID | Name | Pow |
 |----|------|-----|
 | 986 | 分裂幻影 | 2 |
 | 987 | 分裂幻影 | 3 |
 | 988 | Ex分裂幻影 | 4 |
 
-## FEAT_FOX_SHOOT(291)
+## 291. `FEAT_FOX_SHOOT`
 | ID | Name | Pow |
 |----|------|-----|
 | 989 | 夜雨磅礡 | 2 |
 | 990 | 夜雨磅礡 | 3 |
 | 991 | Ex夜雨磅礡 | 4 |
 
-## FEAT_FOX_ZONE(292)
+## 292. `FEAT_FOX_ZONE`
 | ID | Name | Pow |
 |----|------|-----|
 | 992 | 抱擁結界 | 1 |
 | 993 | 抱擁結界 | 2 |
 | 994 | Ex抱擁結界 | 3 |
 
-## FEAT_ARROW_RAIN(293)
+## 293. `FEAT_ARROW_RAIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 995 | 墜落流星 | 3 |
 | 996 | 墜落流星 | 3 |
 | 997 | Ex墜落流星 | 6 |
 
-## FEAT_ATEMWENDE(294)
+## 294. `FEAT_ATEMWENDE`
 | ID | Name | Pow |
 |----|------|-----|
 | 998 | 光輝強迫 | 2 |
 | 1123 | 光輝強迫 | 3 |
 
-## FEAT_FADENSONNEN(295)
+## 295. `FEAT_FADENSONNEN`
 | ID | Name | Pow |
 |----|------|-----|
 | 999 | 雪之重唱 | 5 |
 | 1124 | 雪之重唱 | 8 |
 
-## FEAT_LICHTZWANG(296)
+## 296. `FEAT_LICHTZWANG`
 | ID | Name | Pow |
 |----|------|-----|
 | 1000 | 紡織之陽 | 5 |
 | 1125 | 紡織之陽 | 8 |
 
-## FEAT_SCHNEEPART(297)
+## 297. `FEAT_SCHNEEPART`
 | ID | Name | Pow |
 |----|------|-----|
 | 1001 | 嘆息轉換 | 3 |
 | 1126 | 嘆息轉換 | 2 |
 
-## FEAT_HIGHGATE(298)
+## 298. `FEAT_HIGHGATE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1002 | 光之防禦 | 0 |
 | 1003 | 光之防禦 | 1 |
 | 1004 | 光之防禦 | 1 |
 
-## FEAT_DORFLOFT(299)
+## 299. `FEAT_DORFLOFT`
 | ID | Name | Pow |
 |----|------|-----|
 | 1005 | 守護的架勢 | 6 |
 | 1006 | 守護的架勢 | 6 |
 | 1007 | 守護的架勢 | 6 |
 
-## FEAT_LUMINES(300)
+## 300. `FEAT_LUMINES`
 | ID | Name | Pow |
 |----|------|-----|
 | 1008 | 斷罪的燐光 | 8 |
 | 1009 | 斷罪的燐光 | 8 |
 | 1010 | 斷罪的燐光 | 8 |
 
-## FEAT_SUPER_HEROINE(301)
+## 301. `FEAT_SUPER_HEROINE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1011 | 不潔女主角 | 6 |
 | 1012 | 不潔女主角 | 8 |
 | 1013 | 不潔女主角 | 8 |
 
-## FEAT_STAMPEDE(302)
+## 302. `FEAT_STAMPEDE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1014 | 災害投擲 | 0 |
 | 1015 | 災害投擲 | 0 |
 | 1016 | 災害投擲 | 0 |
 
-## FEAT_DEATH_CONTROL2(303)
+## 303. `FEAT_DEATH_CONTROL2`
 | ID | Name | Pow |
 |----|------|-----|
 | 1017 | 生命剝奪 | 17 |
 | 1018 | 生命剝奪 | 17 |
 | 1019 | 生命剝奪 | 17 |
 
-## FEAT_KENGI(304)
+## 304. `FEAT_KENGI`
 | ID | Name | Pow |
 |----|------|-----|
 | 1020 | 沉醉於本大爺的劍術之中吧！ | 2 |
 | 1021 | 沉醉於本大爺的劍術之中吧！ | 3 |
 | 1022 | Ex沉醉於本大爺的劍術之中吧！ | 3 |
 
-## FEAT_DOKOWO(305)
+## 305. `FEAT_DOKOWO`
 | ID | Name | Pow |
 |----|------|-----|
 | 1023 | 你是在看哪裡！ | 0 |
 | 1024 | 你是在看哪裡！ | 1 |
 | 1025 | Ex你是在看哪裡！ | 2 |
 
-## FEAT_MIKITTA(306)
+## 306. `FEAT_MIKITTA`
 | ID | Name | Pow |
 |----|------|-----|
 | 1026 | 本大爺已經看穿你的技倆了！ | 0 |
 | 1027 | 本大爺已經看穿你的技倆了！ | 1 |
 | 1028 | Ex本大爺已經看穿你的技倆了！ | 2 |
 
-## FEAT_HONTOU(307)
+## 307. `FEAT_HONTOU`
 | ID | Name | Pow |
 |----|------|-----|
 | 1029 | 這才是本大爺真正的實力！ | 0 |
 | 1030 | 這才是本大爺真正的實力！ | 0 |
 | 1031 | Ex這才是本大爺真正的實力！ | 6 |
 
-## FEAT_INVITED(308)
+## 308. `FEAT_INVITED`
 | ID | Name | Pow |
 |----|------|-----|
 | 1032 | 憐憫惡魔之歌 | 3 |
 | 1033 | 憐憫惡魔之歌 | 4 |
 | 1034 | 憐憫惡魔之歌 | 6 |
 
-## FEAT_THROUGH_HAND(309)
+## 309. `FEAT_THROUGH_HAND`
 | ID | Name | Pow |
 |----|------|-----|
 | 1035 | 通透之手 | 1 |
 | 1036 | 通透之手 | 1 |
 | 1037 | 通透之手 | 2 |
 
-## FEAT_PROF_BREATH(310)
+## 310. `FEAT_PROF_BREATH`
 | ID | Name | Pow |
 |----|------|-----|
 | 1038 | 深遠之息 | 0 |
 | 1039 | 深遠之息 | 0 |
 | 1040 | 深遠之息 | 0 |
 
-## FEAT_SEVEN_WISH(311)
+## 311. `FEAT_SEVEN_WISH`
 | ID | Name | Pow |
 |----|------|-----|
 | 1047 | 七個願望 | 2 |
 | 1048 | 七個願望 | 3 |
 | 1049 | 七個願望 | 4 |
 
-## FEAT_THIRTEEN_EYES_R(312)
+## 312. `FEAT_THIRTEEN_EYES_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 1050 | 十三隻眼 | 3 |
 | 1051 | 十三隻眼 | 4 |
 | 1052 | 十三隻眼 | 5 |
 
-## FEAT_THORN_CARE_R(313)
+## 313. `FEAT_THORN_CARE_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 1053 | 茨的架勢 | 4 |
 | 1054 | 茨的架勢 | 4 |
 | 1055 | 茨的架勢 | 5 |
 
-## FEAT_LIBERATING_SWORD_R(314)
+## 314. `FEAT_LIBERATING_SWORD_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 1056 | 解放劍 | 5 |
 | 1057 | 解放劍 | 5 |
 | 1058 | 解放劍 | 7 |
 
-## FEAT_CURSE_SWORD_R(315)
+## 315. `FEAT_CURSE_SWORD_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 1059 | 獄劍 | 5 |
 | 1060 | 獄劍 | 5 |
 | 1061 | 獄劍 | 5 |
 
-## FEAT_FLAME_RING(316)
+## 316. `FEAT_FLAME_RING`
 | ID | Name | Pow |
 |----|------|-----|
 | 1068 | 跳火圈 | 4 |
@@ -2588,7 +2588,7 @@ There are the feats information for developers.
 | 1081 | 跳火圈 | 3 |
 | 1082 | Ex跳火圈 | 2 |
 
-## FEAT_PIANO(317)
+## 317. `FEAT_PIANO`
 | ID | Name | Pow |
 |----|------|-----|
 | 1065 | 彈鋼琴 | 2 |
@@ -2598,7 +2598,7 @@ There are the feats information for developers.
 | 1078 | 彈鋼琴 | 3 |
 | 1079 | Ex彈鋼琴 | 4 |
 
-## FEAT_ONA_BALL(318)
+## 318. `FEAT_ONA_BALL`
 | ID | Name | Pow |
 |----|------|-----|
 | 1062 | 踩大球 | 0 |
@@ -2608,7 +2608,7 @@ There are the feats information for developers.
 | 1075 | 踩大球 | 0 |
 | 1076 | Ex踩大球 | 1 |
 
-## FEAT_VIOLENT(319)
+## 319. `FEAT_VIOLENT`
 | ID | Name | Pow |
 |----|------|-----|
 | 1071 | 大鬧一番 | 0 |
@@ -2618,35 +2618,35 @@ There are the feats information for developers.
 | 1084 | 大鬧一番 | 0 |
 | 1085 | Ex大鬧一番 | 0 |
 
-## FEAT_BALANCE_LIFE(320)
+## 320. `FEAT_BALANCE_LIFE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1089 | 白妙的幼山羊 | 1 |
 | 1090 | 白妙的幼山羊 | 2 |
 | 1091 | EX白妙的幼山羊 | 3 |
 
-## FEAT_LIFETIME_SOUND(321)
+## 321. `FEAT_LIFETIME_SOUND`
 | ID | Name | Pow |
 |----|------|-----|
 | 1092 | 萬物之杖 | 0 |
 | 1093 | 萬物之杖 | 1 |
 | 1094 | Ex萬物之杖 | 2 |
 
-## FEAT_COMA_WHITE(322)
+## 322. `FEAT_COMA_WHITE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1095 | 永恆之白 | 0 |
 | 1096 | 永恆之白 | 1 |
 | 1097 | Ex永恆之白 | 2 |
 
-## FEAT_GOES_TO_DARK(323)
+## 323. `FEAT_GOES_TO_DARK`
 | ID | Name | Pow |
 |----|------|-----|
 | 1098 | 豐收之吻 | 2 |
 | 1099 | 豐收之吻 | 2 |
 | 1100 | Ex豐收之吻 | 3 |
 
-## FEAT_EX_COUNTER_GUARD(324)
+## 324. `FEAT_EX_COUNTER_GUARD`
 | ID | Name | Pow |
 |----|------|-----|
 | 102 | Ex攻防抗衡 | 6 |
@@ -2654,12 +2654,12 @@ There are the feats information for developers.
 | 1646 | 紫紺防壁 | 4 |
 | 1647 | 紫紺防壁 | 4 |
 
-## FEAT_EX_THIRTEEN_EYES(325)
+## 325. `FEAT_EX_THIRTEEN_EYES`
 | ID | Name | Pow |
 |----|------|-----|
 | 174 | Ex十三隻眼 | 24 |
 
-## FEAT_EX_RAZORS_EDGE(326)
+## 326. `FEAT_EX_RAZORS_EDGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 314 | Ex時空分斷刀 | 3 |
@@ -2667,262 +2667,262 @@ There are the feats information for developers.
 | 1293 | 時空分斷刀 | 3 |
 | 1294 | 時空分斷刀 | 3 |
 
-## FEAT_EX_RED_MOON(327)
+## 327. `FEAT_EX_RED_MOON`
 | ID | Name | Pow |
 |----|------|-----|
 | 568 | Ex深紅之月 | 5 |
 
-## FEAT_HASSEN(328)
+## 328. `FEAT_HASSEN`
 | ID | Name | Pow |
 |----|------|-----|
 | 1101 | 十穿 | 6 |
 | 1102 | 十穿 | 7 |
 | 1103 | 十穿 | 8 |
 
-## FEAT_HANDLED_SLASH_R(329)
+## 329. `FEAT_HANDLED_SLASH_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 1104 | 百穿 | 5 |
 | 1105 | 百穿 | 5 |
 | 1106 | 百穿 | 5 |
 
-## FEAT_RAKSHASA_STANCE(330)
+## 330. `FEAT_RAKSHASA_STANCE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1107 | 羅剎架勢 | 0 |
 | 1108 | 羅剎架勢 | 1 |
 | 1109 | 羅剎架勢 | 2 |
 
-## FEAT_OBITUARY(331)
+## 331. `FEAT_OBITUARY`
 | ID | Name | Pow |
 |----|------|-----|
 | 1113 | 告死從僕 | 3 |
 | 1114 | 告死從僕 | 4 |
 | 1115 | 告死從僕 | 5 |
 
-## FEAT_SOLVENT_RAIN_R(332)
+## 332. `FEAT_SOLVENT_RAIN_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 1116 | 溶魂風暴 | 7 |
 | 1117 | 溶魂風暴 | 8 |
 | 1118 | 溶魂風暴 | 9 |
 
-## FEAT_KIRIGAKURE(333)
+## 333. `FEAT_KIRIGAKURE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1127 | 潛影迷霧 | 1 |
 | 1128 | 潛影迷霧 | 1 |
 | 1129 | Ex潛影迷霧 | 2 |
 
-## FEAT_MIKAGAMI(334)
+## 334. `FEAT_MIKAGAMI`
 | ID | Name | Pow |
 |----|------|-----|
 | 1130 | 波環紋脈 | 3 |
 | 1131 | 波環紋脈 | 4 |
 | 1132 | Ex波環紋脈 | 5 |
 
-## FEAT_MUTUAL_LOVE(335)
+## 335. `FEAT_MUTUAL_LOVE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1133 | 銳水流槍 | 4 |
 | 1134 | 銳水流槍 | 6 |
 | 1135 | Ex銳水流槍 | 8 |
 
-## FEAT_MERE_SHADOW(336)
+## 336. `FEAT_MERE_SHADOW`
 | ID | Name | Pow |
 |----|------|-----|
 | 1136 | 厄毒邪雨 | 7 |
 | 1137 | 厄毒邪雨 | 7 |
 | 1138 | Ex厄毒邪雨 | 15 |
 
-## FEAT_SCAPULIMANCY(337)
+## 337. `FEAT_SCAPULIMANCY`
 | ID | Name | Pow |
 |----|------|-----|
 | 1139 | 鏤冰占命 | 2 |
 | 1140 | 鏤冰占命 | 2 |
 | 1141 | 鏤冰占命 | 3 |
 
-## FEAT_SOIL_GUARD(338)
+## 338. `FEAT_SOIL_GUARD`
 | ID | Name | Pow |
 |----|------|-----|
 | 1145 | 跺地成牆 | 3 |
 | 1146 | 跺地成牆 | 4 |
 | 1147 | 跺地成牆 | 4 |
 
-## FEAT_CARAPACE_SPIN(339)
+## 339. `FEAT_CARAPACE_SPIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 1148 | 冰槍猛雪 | 3 |
 | 1149 | 冰槍猛雪 | 4 |
 | 1150 | 冰槍猛雪 | 5 |
 
-## FEAT_VENDETTA(340)
+## 340. `FEAT_VENDETTA`
 | ID | Name | Pow |
 |----|------|-----|
 | 1151 | 報復回擊 | 3 |
 | 1152 | 報復回擊 | 4 |
 | 1153 | Ex報復回擊 | 5 |
 
-## FEAT_AVENGERS(341)
+## 341. `FEAT_AVENGERS`
 | ID | Name | Pow |
 |----|------|-----|
 | 1154 | 深邃狂怒 | 4 |
 | 1155 | 深邃狂怒 | 5 |
 | 1156 | Ex深邃狂怒 | 7 |
 
-## FEAT_SHARPEN_EDGE(342)
+## 342. `FEAT_SHARPEN_EDGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1157 | 虛影殘憶 | 1 |
 | 1158 | 虛影殘憶 | 1 |
 | 1159 | Ex虛影殘憶 | 2 |
 
-## FEAT_HACKNINE(343)
+## 343. `FEAT_HACKNINE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1160 | 惡意祈願 | 13 |
 | 1161 | 惡意祈願 | 13 |
 | 1162 | Ex惡意祈願 | 9 |
 
-## FEAT_BLACK_MAGEIA(344)
+## 344. `FEAT_BLACK_MAGEIA`
 | ID | Name | Pow |
 |----|------|-----|
 | 1163 | 黑魔術 | 3 |
 | 1164 | 黑魔術 | 4 |
 | 1165 | 黑魔術 | 5 |
 
-## FEAT_CORPS_DRAIN(345)
+## 345. `FEAT_CORPS_DRAIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 1166 | 屍骸吸噬  | 1 |
 | 1167 | 屍骸吸噬  | 2 |
 | 1168 | 屍骸吸噬  | 3 |
 
-## FEAT_INVERT(346)
+## 346. `FEAT_INVERT`
 | ID | Name | Pow |
 |----|------|-----|
 | 1172 | 現象反轉 | 1 |
 | 1173 | 現象反轉 | 2 |
 | 1174 | 現象反轉 | 3 |
 
-## FEAT_NIGHT_HAWK(347)
+## 347. `FEAT_NIGHT_HAWK`
 | ID | Name | Pow |
 |----|------|-----|
 | 1181 | 追跡的夜鷹 | 0 |
 | 1182 | 追跡的夜鷹 | 1 |
 | 1183 | Ex追跡的夜鷹 | 2 |
 
-## FEAT_PHANTOM_BARRETT(348)
+## 348. `FEAT_PHANTOM_BARRETT`
 | ID | Name | Pow |
 |----|------|-----|
 | 1184 | 靈幻的剛彈 | 7 |
 | 1185 | 靈幻的剛彈 | 8 |
 | 1186 | Ex靈幻的剛彈 | 10 |
 
-## FEAT_ONE_ACT(349)
+## 349. `FEAT_ONE_ACT`
 | ID | Name | Pow |
 |----|------|-----|
 | 1187 | 幻惑的一幕 | 1 |
 | 1188 | 幻惑的一幕 | 1 |
 | 1189 | Ex幻惑的一幕 | 2 |
 
-## FEAT_FINAL_BARRETT(350)
+## 350. `FEAT_FINAL_BARRETT`
 | ID | Name | Pow |
 |----|------|-----|
 | 1190 | 終極的烈彈 | 3 |
 | 1191 | 終極的烈彈 | 3 |
 | 1192 | Ex終極的烈彈 | 5 |
 
-## FEAT_GRIMMDEAD(351)
+## 351. `FEAT_GRIMMDEAD`
 | ID | Name | Pow |
 |----|------|-----|
 | 1193 | 棘網犧牲者 | 1 |
 | 1194 | 棘網犧牲者 | 1 |
 | 1195 | Ex棘網犧牲者 | 1 |
 
-## FEAT_WUNDERKAMMER(352)
+## 352. `FEAT_WUNDERKAMMER`
 | ID | Name | Pow |
 |----|------|-----|
 | 1196 | 陷落常春藤 | 4 |
 | 1197 | 陷落常春藤 | 5 |
 | 1198 | Ex陷落常春藤 | 7 |
 
-## FEAT_CONSTRAINT(353)
+## 353. `FEAT_CONSTRAINT`
 | ID | Name | Pow |
 |----|------|-----|
 | 1199 | 拒絕之光 | 6 |
 | 1200 | 拒絕之光 | 7 |
 | 1201 | Ex拒絕之光 | 12 |
 
-## FEAT_RENOVATE_ATRANDOM(354)
+## 354. `FEAT_RENOVATE_ATRANDOM`
 | ID | Name | Pow |
 |----|------|-----|
 | 1202 | 惡意贈禮 | 5 |
 | 1203 | 惡意贈禮 | 5 |
 | 1204 | Ex惡意贈禮 | 12 |
 
-## FEAT_BACKBEARD(355)
+## 355. `FEAT_BACKBEARD`
 | ID | Name | Pow |
 |----|------|-----|
 | 1206 | 催眠術 | 0 |
 
-## FEAT_SHADOW_STITCH(356)
+## 356. `FEAT_SHADOW_STITCH`
 | ID | Name | Pow |
 |----|------|-----|
 | 1207 | 縫影 | 7 |
 | 1208 | 縫影 | 10 |
 | 1209 | Ex縫影 | 13 |
 
-## FEAT_MEXTLI(357)
+## 357. `FEAT_MEXTLI`
 | ID | Name | Pow |
 |----|------|-----|
 | 1210 | 過失的計謀 | 1 |
 | 1211 | 過失的計謀 | 1 |
 | 1212 | Ex過失的計謀 | 2 |
 
-## FEAT_RIVET_AND_SURGE(358)
+## 358. `FEAT_RIVET_AND_SURGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1213 | 適應變化 | 2 |
 | 1214 | 適應變化 | 2 |
 | 1215 | Ex適應變化 | 3 |
 
-## FEAT_PHANTOMAS(359)
+## 359. `FEAT_PHANTOMAS`
 | ID | Name | Pow |
 |----|------|-----|
 | 1216 | 盜賊的神技 | 6 |
 | 1217 | 盜賊的神技 | 6 |
 | 1218 | Ex盜賊的神技 | 6 |
 
-## FEAT_DANGER_DRUG(360)
+## 360. `FEAT_DANGER_DRUG`
 | ID | Name | Pow |
 |----|------|-----|
 | 1219 | 恐懼的法則 | 2 |
 | 1220 | 恐懼的法則 | 3 |
 | 1221 | Ex恐懼的法則 | 5 |
 
-## FEAT_THREE_THUNDER(361)
+## 361. `FEAT_THREE_THUNDER`
 | ID | Name | Pow |
 |----|------|-----|
 | 1222 | 患病的原理 | 4 |
 | 1223 | 患病的原理 | 5 |
 | 1224 | Ex患病的原理 | 6 |
 
-## FEAT_PRIME_HEAL(362)
+## 362. `FEAT_PRIME_HEAL`
 | ID | Name | Pow |
 |----|------|-----|
 | 1225 | 看護的理論 | 2 |
 | 1226 | 看護的理論 | 3 |
 | 1227 | Ex看護的理論 | 5 |
 
-## FEAT_FOUR_COMET(363)
+## 363. `FEAT_FOUR_COMET`
 | ID | Name | Pow |
 |----|------|-----|
 | 1228 | 殘酷的最終定理 | 6 |
 | 1229 | 殘酷的最終定理 | 6 |
 | 1230 | Ex殘酷的最終定理 | 7 |
 
-## FEAT_CLUB_JUGG(364)
+## 364. `FEAT_CLUB_JUGG`
 | ID | Name | Pow |
 |----|------|-----|
 | 1231 | 格擋 | 3 |
@@ -2932,7 +2932,7 @@ There are the feats information for developers.
 | 1244 | 擺盪戲法 | 6 |
 | 1245 | 擺盪戲法 | 8 |
 
-## FEAT_KNIFE_JUGG(365)
+## 365. `FEAT_KNIFE_JUGG`
 | ID | Name | Pow |
 |----|------|-----|
 | 1234 | 小刀 | 3 |
@@ -2942,7 +2942,7 @@ There are the feats information for developers.
 | 1247 | 擺盪小刀雜技 | 6 |
 | 1248 | 擺盪小刀雜技 | 8 |
 
-## FEAT_BLOWING_FIRE(366)
+## 366. `FEAT_BLOWING_FIRE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1237 | 噴火 | 5 |
@@ -2952,35 +2952,35 @@ There are the feats information for developers.
 | 1250 | 噴火雜技 | 8 |
 | 1251 | 噴火雜技 | 10 |
 
-## FEAT_BALANCE_BALL(367)
+## 367. `FEAT_BALANCE_BALL`
 | ID | Name | Pow |
 |----|------|-----|
 | 1252 | 巨球滾壓 | 3 |
 | 1253 | 巨球滾壓 | 4 |
 | 1254 | 巨球滾壓 | 5 |
 
-## FEAT_BAD_MILK(368)
+## 368. `FEAT_BAD_MILK`
 | ID | Name | Pow |
 |----|------|-----|
 | 1255 | 奇蹟汽水 | 5 |
 | 1256 | 奇蹟汽水 | 4 |
 | 1257 | Ex奇蹟汽水 | 2 |
 
-## FEAT_MIRA_HP(369)
+## 369. `FEAT_MIRA_HP`
 | ID | Name | Pow |
 |----|------|-----|
 | 1258 | 靈魂仿製 | 0 |
 | 1259 | 靈魂仿製 | 0 |
 | 1260 | Ex靈魂仿製 | 5 |
 
-## FEAT_SKILL_DRAIN(370)
+## 370. `FEAT_SKILL_DRAIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 1261 | I Choose You | 4 |
 | 1262 | I Choose You | 5 |
 | 1263 | Ex I Choose You | 7 |
 
-## FEAT_COFFIN(371)
+## 371. `FEAT_COFFIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 1264 | 創贈麻煩 | 0 |
@@ -2988,88 +2988,88 @@ There are the feats information for developers.
 | 1266 | 創贈麻煩 | 2 |
 | 1267 | Ex創贈麻煩 | 3 |
 
-## FEAT_DARK_EYES(372)
+## 372. `FEAT_DARK_EYES`
 | ID | Name | Pow |
 |----|------|-----|
 | 1268 | 引向宵闇 | 8 |
 | 1269 | 引向宵闇 | 10 |
 | 1270 | Ex引向宵闇 | 15 |
 
-## FEAT_CROWS_CLAW(373)
+## 373. `FEAT_CROWS_CLAW`
 | ID | Name | Pow |
 |----|------|-----|
 | 1274 | 羅恩格林之門 | 0 |
 | 1275 | 羅恩格林之門 | 1 |
 | 1276 | Ex羅恩格林之門 | 2 |
 
-## FEAT_MOLE(374)
+## 374. `FEAT_MOLE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1271 | 逆襲引力 | 4 |
 | 1272 | 逆襲引力 | 6 |
 | 1273 | Ex逆襲引力 | 8 |
 
-## FEAT_SUNSET(375)
+## 375. `FEAT_SUNSET`
 | ID | Name | Pow |
 |----|------|-----|
 | 1277 | 繚亂舞刃 | 6 |
 | 1278 | 繚亂舞刃 | 6 |
 | 1279 | Ex繚亂舞刃 | 9 |
 
-## FEAT_VINE(376)
+## 376. `FEAT_VINE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1280 | 束縛藤蔓 | 3 |
 | 1281 | 束縛藤蔓 | 4 |
 | 1282 | 束縛藤蔓 | 5 |
 
-## FEAT_GRAPE_VINE(377)
+## 377. `FEAT_GRAPE_VINE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1283 | 蔓延之物 | 3 |
 | 1284 | 蔓延之物 | 3 |
 | 1285 | 蔓延之物 | 4 |
 
-## FEAT_THUNDER_STRUCK(378)
+## 378. `FEAT_THUNDER_STRUCK`
 | ID | Name | Pow |
 |----|------|-----|
 | 1295 | 雷霆奔流 | 14 |
 | 1296 | 雷霆奔流 | 14 |
 | 1297 | 雷霆奔流 | 14 |
 
-## FEAT_WEAVE_WORLD(379)
+## 379. `FEAT_WEAVE_WORLD`
 | ID | Name | Pow |
 |----|------|-----|
 | 1307 | 世界創織者 | 4 |
 | 1308 | 世界創織者 | 4 |
 | 1309 | 世界創織者 | 3 |
 
-## FEAT_COLLECTION(380)
+## 380. `FEAT_COLLECTION`
 | ID | Name | Pow |
 |----|------|-----|
 
-## FEAT_RESTRICTION(381)
+## 381. `FEAT_RESTRICTION`
 | ID | Name | Pow |
 |----|------|-----|
 | 1313 | 次元盜掠 | 5 |
 | 1314 | 次元盜掠 | 6 |
 | 1315 | Ex次元盜掠 | 9 |
 
-## FEAT_DABS(382)
+## 382. `FEAT_DABS`
 | ID | Name | Pow |
 |----|------|-----|
 | 1316 | 次元牽引 | 5 |
 | 1317 | 次元牽引 | 6 |
 | 1318 | Ex次元牽引 | 8 |
 
-## FEAT_VIBRATION(383)
+## 383. `FEAT_VIBRATION`
 | ID | Name | Pow |
 |----|------|-----|
 | 1319 | 次元侵奪 | 4 |
 | 1320 | 次元侵奪 | 4 |
 | 1321 | Ex次元侵奪 | 6 |
 
-## FEAT_TOT(384)
+## 384. `FEAT_TOT`
 | ID | Name | Pow |
 |----|------|-----|
 | 1323 | 恐怖的咆嘯 | 4 |
@@ -3077,441 +3077,441 @@ There are the feats information for developers.
 | 1332 | 地獄的咆嘯 | 5 |
 | 1333 | 地獄的咆嘯 | 7 |
 
-## FEAT_DUCK_APPLE(385)
+## 385. `FEAT_DUCK_APPLE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1334 | 灰暗之眼 | 4 |
 | 1335 | 灰暗之眼 | 5 |
 | 1336 | 灰暗之眼 | 7 |
 
-## FEAT_RAMPAGE(386)
+## 386. `FEAT_RAMPAGE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1340 | 紫色狂躁 | 0 |
 | 1341 | 紫色狂躁 | 1 |
 | 1342 | Ex紫色狂躁 | 2 |
 
-## FEAT_SCRATCH_FIRE(387)
+## 387. `FEAT_SCRATCH_FIRE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1337 | 撩亂射擊 | 0 |
 | 1338 | 撩亂射擊 | 1 |
 | 1339 | Ex撩亂射擊 | 2 |
 
-## FEAT_BLUE_RUIN(388)
+## 388. `FEAT_BLUE_RUIN`
 | ID | Name | Pow |
 |----|------|-----|
 | 1343 | 亂彈掃射 | 0 |
 | 1344 | 亂彈掃射 | 1 |
 | 1345 | Ex亂彈掃射 | 2 |
 
-## FEAT_THIRD_STEP(389)
+## 389. `FEAT_THIRD_STEP`
 | ID | Name | Pow |
 |----|------|-----|
 | 1346 | 痴狂亂步 | 2 |
 | 1347 | 痴狂亂步 | 2 |
 | 1348 | Ex痴狂亂步 | 4 |
 
-## FEAT_METAL_SHIELD(390)
+## 390. `FEAT_METAL_SHIELD`
 | ID | Name | Pow |
 |----|------|-----|
 | 1349 | 大盾防護 | 6 |
 | 1350 | 大盾防護 | 9 |
 | 1351 | 大盾防護 | 12 |
 
-## FEAT_MAGNETIC_FIELD(391)
+## 391. `FEAT_MAGNETIC_FIELD`
 | ID | Name | Pow |
 |----|------|-----|
 | 1361 | 滯留光波 | 5 |
 | 1362 | 滯留光波 | 7 |
 | 1363 | Ex滯留光波 | 12 |
 
-## FEAT_AFTERGLOW(392)
+## 392. `FEAT_AFTERGLOW`
 | ID | Name | Pow |
 |----|------|-----|
 | 1364 | 拒絕餘光 | 2 |
 | 1365 | 拒絕餘光 | 3 |
 | 1366 | Ex拒絕餘光 | 4 |
 
-## FEAT_KEEPER(393)
+## 393. `FEAT_KEEPER`
 | ID | Name | Pow |
 |----|------|-----|
 | 1370 | 夕輝守護者 | 1 |
 | 1371 | 夕輝守護者 | 1 |
 | 1372 | Ex夕輝守護者 | 1 |
 
-## FEAT_HEALING_SCHOCK(394)
+## 394. `FEAT_HEALING_SCHOCK`
 | ID | Name | Pow |
 |----|------|-----|
 | 1383 | 衝擊療法 | 3 |
 | 1384 | 衝擊療法 | 3 |
 | 1385 | Ex衝擊療法 | 10 |
 
-## FEAT_CLAYMORE(395)
+## 395. `FEAT_CLAYMORE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1386 | 地雷 | 1 |
 | 1387 | 地雷 | 2 |
 | 1388 | Ex地雷 | 3 |
 
-## FEAT_TRAP_CHASE(396)
+## 396. `FEAT_TRAP_CHASE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1389 | 陷阱追擊 | 4 |
 | 1390 | 陷阱追擊 | 5 |
 | 1391 | Ex陷阱追擊 | 7 |
 
-## FEAT_PANIC(397)
+## 397. `FEAT_PANIC`
 | ID | Name | Pow |
 |----|------|-----|
 | 1392 | 恐慌榴彈 | 5 |
 | 1393 | 恐慌榴彈 | 7 |
 | 1394 | Ex恐慌榴彈 | 12 |
 
-## FEAT_BULLET_COUNTER(398)
+## 398. `FEAT_BULLET_COUNTER`
 | ID | Name | Pow |
 |----|------|-----|
 | 1395 | 槍彈反擊 | 7 |
 | 1396 | 槍彈反擊 | 7 |
 | 1397 | Ex槍彈反擊 | 10 |
 
-## FEAT_BEAN_STORM(399)
+## 399. `FEAT_BEAN_STORM`
 | ID | Name | Pow |
 |----|------|-----|
 | 1407 | 大菽嵐 | 7 |
 | 1408 | 大菽嵐 | 9 |
 | 1409 | 大菽嵐 | 13 |
 
-## FEAT_JOKER(400)
+## 400. `FEAT_JOKER`
 | ID | Name | Pow |
 |----|------|-----|
 | 1410 | 特洛伊擴散 | 1 |
 | 1411 | 特洛伊擴散 | 1 |
 | 1412 | Ex特洛伊擴散 | 2 |
 
-## FEAT_FAMILIAR(401)
+## 401. `FEAT_FAMILIAR`
 | ID | Name | Pow |
 |----|------|-----|
 | 1413 | 特洛伊防壁 | 4 |
 | 1414 | 特洛伊防壁 | 5 |
 | 1415 | Ex特洛伊防壁 | 6 |
 
-## FEAT_CROWN_CROWN(402)
+## 402. `FEAT_CROWN_CROWN`
 | ID | Name | Pow |
 |----|------|-----|
 | 1416 | 瑪基斯托 | 5 |
 | 1417 | 瑪基斯托 | 6 |
 | 1418 | Ex瑪基斯托 | 7 |
 
-## FEAT_RIDDLE_BOX(403)
+## 403. `FEAT_RIDDLE_BOX`
 | ID | Name | Pow |
 |----|------|-----|
 | 1419 | 海普利斯 | 3 |
 | 1420 | 海普利斯 | 3 |
 | 1421 | Ex海普利斯 | 5 |
 
-## FEAT_FLUTTER_SWORD_DANCE(404)
+## 404. `FEAT_FLUTTER_SWORD_DANCE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1422 | 飄揚的劍舞 | 0 |
 | 1423 | 飄揚的劍舞 | 1 |
 | 1424 | Ex飄揚的劍舞 | 2 |
 
-## FEAT_RITUAL_OF_BRAVERY(405)
+## 405. `FEAT_RITUAL_OF_BRAVERY`
 | ID | Name | Pow |
 |----|------|-----|
 | 1425 | 勇猛的儀式 | 4 |
 | 1426 | 勇猛的儀式 | 5 |
 | 1427 | Ex勇猛的儀式 | 7 |
 
-## FEAT_HUNTING_CHEETAH(406)
+## 406. `FEAT_HUNTING_CHEETAH`
 | ID | Name | Pow |
 |----|------|-----|
 | 1428 | 獵豹之劍 | 0 |
 | 1429 | 獵豹之劍 | 0 |
 | 1430 | Ex獵豹之劍 | 5 |
 
-## FEAT_PROBE(407)
+## 407. `FEAT_PROBE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1431 | 試探的一步 | 7 |
 | 1432 | 試探的一步 | 7 |
 | 1433 | Ex試探的一步 | 15 |
 
-## FEAT_TAILORING(408)
+## 408. `FEAT_TAILORING`
 | ID | Name | Pow |
 |----|------|-----|
 | 1470 | 劇毒人偶 | 1 |
 | 1471 | 劇毒人偶 | 3 |
 | 1472 | Ex劇毒人偶 | 8 |
 
-## FEAT_CUT(409)
+## 409. `FEAT_CUT`
 | ID | Name | Pow |
 |----|------|-----|
 | 1473 | 危險人偶 | 0 |
 | 1474 | 危險人偶 | 1 |
 | 1475 | Ex危險人偶 | 2 |
 
-## FEAT_SEWING(410)
+## 410. `FEAT_SEWING`
 | ID | Name | Pow |
 |----|------|-----|
 | 1476 | 人偶幻視 | 2 |
 | 1477 | 人偶幻視 | 3 |
 | 1478 | Ex人偶幻視 | 5 |
 
-## FEAT_CANCELLATION(411)
+## 411. `FEAT_CANCELLATION`
 | ID | Name | Pow |
 |----|------|-----|
 | 1479 | 人偶廢棄 | 0 |
 | 1480 | 人偶廢棄 | 0 |
 | 1481 | Ex人偶廢棄 | 6 |
 
-## FEAT_SEIHO(412)
+## 412. `FEAT_SEIHO`
 | ID | Name | Pow |
 |----|------|-----|
 | 1482 | 威勢 | 4 |
 | 1483 | 威勢 | 5 |
 | 1484 | Ex威勢 | 9 |
 
-## FEAT_DOKKO(413)
+## 413. `FEAT_DOKKO`
 | ID | Name | Pow |
 |----|------|-----|
 | 1485 | 痛打 | 3 |
 | 1486 | 痛打 | 3 |
 | 1487 | Ex痛打 | 6 |
 
-## FEAT_NYOI(414)
+## 414. `FEAT_NYOI`
 | ID | Name | Pow |
 |----|------|-----|
 | 1488 | 如意 | 5 |
 | 1489 | 如意 | 6 |
 | 1490 | Ex如意 | 9 |
 
-## FEAT_KONGO(415)
+## 415. `FEAT_KONGO`
 | ID | Name | Pow |
 |----|------|-----|
 | 1491 | 脅嚇 | 19 |
 | 1492 | 脅嚇 | 19 |
 | 1493 | Ex脅嚇 | 27 |
 
-## FEAT_CARP_QUAKE(416)
+## 416. `FEAT_CARP_QUAKE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1494 | 撼動大地 | 2 |
 | 1495 | 撼動大地 | 3 |
 | 1496 | 撼動大地 | 4 |
 
-## FEAT_CARP_LIGHTNING(417)
+## 417. `FEAT_CARP_LIGHTNING`
 | ID | Name | Pow |
 |----|------|-----|
 | 1497 | 閃電 | 1 |
 | 1498 | 閃電 | 2 |
 | 1499 | 閃電 | 3 |
 
-## FEAT_FIELD_LOCK(418)
+## 418. `FEAT_FIELD_LOCK`
 | ID | Name | Pow |
 |----|------|-----|
 | 1506 | 閃光封鎖 | 0 |
 | 1507 | 閃光封鎖 | 1 |
 | 1508 | Ex閃光封鎖 | 2 |
 
-## FEAT_ARREST(419)
+## 419. `FEAT_ARREST`
 | ID | Name | Pow |
 |----|------|-----|
 | 1509 | 警棒防禦 | 3 |
 | 1510 | 警棒防禦 | 3 |
 | 1511 | Ex警棒防禦 | 4 |
 
-## FEAT_QUICK_DRAW(420)
+## 420. `FEAT_QUICK_DRAW`
 | ID | Name | Pow |
 |----|------|-----|
 | 1512 | 快速射擊 | 2 |
 | 1513 | 快速射擊 | 4 |
 | 1514 | Ex快速射擊 | 4 |
 
-## FEAT_GAZE(421)
+## 421. `FEAT_GAZE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1515 | 暈擊振動波 | 3 |
 | 1516 | 暈擊振動波 | 3 |
 | 1517 | Ex暈擊振動波 | 5 |
 
-## FEAT_MONITORING(422)
+## 422. `FEAT_MONITORING`
 | ID | Name | Pow |
 |----|------|-----|
 | 1530 | 感覺共有 | 5 |
 | 1531 | 感覺共有 | 7 |
 | 1532 | Ex感覺共有 | 9 |
 
-## FEAT_TIME_LAG_DRAW(423)
+## 423. `FEAT_TIME_LAG_DRAW`
 | ID | Name | Pow |
 |----|------|-----|
 | 1533 | 銳化篡奪 | 3 |
 | 1534 | 銳化篡奪 | 4 |
 | 1535 | Ex銳化篡奪 | 6 |
 
-## FEAT_TIME_LAG_BUFF(424)
+## 424. `FEAT_TIME_LAG_BUFF`
 | ID | Name | Pow |
 |----|------|-----|
 | 1536 | 攻勢轉化 | 4 |
 | 1537 | 攻勢轉化 | 5 |
 | 1538 | Ex攻勢轉化 | 7 |
 
-## FEAT_DAMAGE_TRANSFER(425)
+## 425. `FEAT_DAMAGE_TRANSFER`
 | ID | Name | Pow |
 |----|------|-----|
 | 1539 | 禍害轉移 | 0 |
 | 1540 | 禍害轉移 | 0 |
 | 1541 | Ex禍害轉移 | 2 |
 
-## FEAT_CIGARETTE(426)
+## 426. `FEAT_CIGARETTE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1542 | 牲祭納一 | 4 |
 | 1543 | 牲祭納一 | 5 |
 | 1544 | Ex牲祭納一 | 6 |
 
-## FEAT_THREE_CARD(427)
+## 427. `FEAT_THREE_CARD`
 | ID | Name | Pow |
 |----|------|-----|
 | 1545 | 多向集三 | 0 |
 | 1546 | 多向集三 | 1 |
 | 1547 | Ex多向集三 | 2 |
 
-## FEAT_CARD_SEARCH(428)
+## 428. `FEAT_CARD_SEARCH`
 | ID | Name | Pow |
 |----|------|-----|
 | 1548 | 嚴追獵四 | 3 |
 | 1549 | 嚴追獵四 | 4 |
 | 1550 | Ex嚴追獵四 | 5 |
 
-## FEAT_ALL_IN_ONE(429)
+## 429. `FEAT_ALL_IN_ONE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1551 | 高速迴旋 | 6 |
 | 1552 | 高速迴旋 | 6 |
 | 1553 | Ex高速迴旋 | 12 |
 
-## FEAT_FIRE_BIRD(430)
+## 430. `FEAT_FIRE_BIRD`
 | ID | Name | Pow |
 |----|------|-----|
 | 1572 | 焰凰 | 2 |
 | 1573 | 焰凰 | 2 |
 | 1574 | 焰凰 | 3 |
 
-## FEAT_BRAMBLES(431)
+## 431. `FEAT_BRAMBLES`
 | ID | Name | Pow |
 |----|------|-----|
 | 1578 | 藤蔓 | 0 |
 | 1579 | 藤蔓 | 1 |
 | 1580 | 藤蔓 | 2 |
 
-## FEAT_FRANKEN_TACKLE(432)
+## 432. `FEAT_FRANKEN_TACKLE`
 | ID | Name | Pow |
 |----|------|-----|
 | 1581 | 突擊姿勢 | 0 |
 | 1582 | 突擊姿勢 | 0 |
 | 1583 | 突擊姿勢 | 0 |
 
-## FEAT_FRANKEN_CHARGING(433)
+## 433. `FEAT_FRANKEN_CHARGING`
 | ID | Name | Pow |
 |----|------|-----|
 | 1584 | 能量充填 | 1 |
 | 1585 | 能量充填 | 2 |
 | 1586 | 能量充填 | 3 |
 
-## FEAT_MOVING_ONE_R(434)
+## 434. `FEAT_MOVING_ONE_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 1587 | 挑戰者 | 2 |
 | 1588 | 挑戰者 | 2 |
 | 1589 | 挑戰者 | 2 |
 
-## FEAT_ARROGANT_ONE_R(435)
+## 435. `FEAT_ARROGANT_ONE_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 1590 | 驚懼者 | 7 |
 | 1591 | 驚懼者 | 7 |
 | 1592 | 驚懼者 | 7 |
 
-## FEAT_EATING_ONE_R(436)
+## 436. `FEAT_EATING_ONE_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 1593 | 敬重者 | 6 |
 | 1594 | 敬重者 | 6 |
 | 1595 | 敬重者 | 6 |
 
-## FEAT_HARF_DEAD(437)
+## 437. `FEAT_HARF_DEAD`
 | ID | Name | Pow |
 |----|------|-----|
 | 1596 | 解體雷射 | 0 |
 | 1597 | 解體雷射 | 0 |
 | 1598 | 解體雷射 | 0 |
 
-## FEAT_MACHINE_CELL(438)
+## 438. `FEAT_MACHINE_CELL`
 | ID | Name | Pow |
 |----|------|-----|
 | 1606 | 高出力動能電池 | 2 |
 | 1607 | 高出力動能電池 | 2 |
 | 1608 | 高出力動能電池 | 2 |
 
-## FEAT_HEAT_SEEKER_R(439)
+## 439. `FEAT_HEAT_SEEKER_R`
 | ID | Name | Pow |
 |----|------|-----|
 | 1609 | 代碼·Exceed | 9 |
 | 1610 | 代碼·Exceed | 9 |
 | 1611 | 代碼·Exceed | 9 |
 
-## FEAT_DIRECTIONAL_BEAM(440)
+## 440. `FEAT_DIRECTIONAL_BEAM`
 | ID | Name | Pow |
 |----|------|-----|
 | 1612 | 雷射加農炮 | 4 |
 | 1613 | 雷射加農炮 | 4 |
 | 1614 | 雷射加農炮 | 4 |
 
-## FEAT_DELTA(441)
+## 441. `FEAT_DELTA`
 | ID | Name | Pow |
 |----|------|-----|
 | 1627 | 吊殺絞刑 | 5 |
 | 1628 | 吊殺絞刑 | 5 |
 | 1629 | 吊殺絞刑 | 5 |
 
-## FEAT_SIGMA(442)
+## 442. `FEAT_SIGMA`
 | ID | Name | Pow |
 |----|------|-----|
 | 1630 | 崩天刃 | 6 |
 | 1631 | 崩天刃 | 7 |
 | 1632 | 崩天刃 | 8 |
 
-## FEAT_STAMP(443)
+## 443. `FEAT_STAMP`
 | ID | Name | Pow |
 |----|------|-----|
 | 1633 | 戰鬥巨斧改 | 14 |
 | 1634 | 戰鬥巨斧改 | 14 |
 | 1635 | 戰鬥巨斧改 | 14 |
 
-## FEAT_ACCELERATION(444)
+## 444. `FEAT_ACCELERATION`
 | ID | Name | Pow |
 |----|------|-----|
 | 1636 | 加速裝置 | 0 |
 | 1637 | 加速裝置 | 1 |
 | 1638 | 加速裝置 | 2 |
 
-## FEAT_FOAB(445)
+## 445. `FEAT_FOAB`
 | ID | Name | Pow |
 |----|------|-----|
 | 1639 | 支援砲擊 | 3 |
 | 1640 | 支援砲擊 | 3 |
 | 1641 | 支援砲擊 | 3 |
 
-## FEAT_WHITE_MOON(446)
+## 446. `FEAT_WHITE_MOON`
 | ID | Name | Pow |
 |----|------|-----|
 | 1648 | 純白月桂 | 7 |
 | 1649 | 純白月桂 | 7 |
 | 1650 | 純白月桂 | 7 |
 
-## FEAT_ANGER_BACK(447)
+## 447. `FEAT_ANGER_BACK`
 | ID | Name | Pow |
 |----|------|-----|
 | 1723 | 靜謐之印 | 1 |
