@@ -1,0 +1,19 @@
+{
+  "name": "OpenUnlight",
+  "version": "0.1.0",
+  "description": "The Open Source version of Unlight",
+  "main": "index.js",
+  "authors": {
+    "name": "Open Unlight",
+    "email": "contact@unlight.dev"
+  },
+  "repository": "https://github.com/open-unlight/docs.git",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
