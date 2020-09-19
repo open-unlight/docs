@@ -56,7 +56,8 @@ module.exports = {
           title: 'Appendix',
           collapsable: true,
           children: [
-            'appendix/feats'
+            'appendix/feats',
+            'appendix/passive_skills'
           ]
         }
       ],
